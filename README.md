@@ -5,7 +5,7 @@ millimas-album
 
 ## 使い方
 1. [GREE](http://gree.jp/?mode=login)にログイン後、[アプリのページ](http://imas.gree-apps.net/app/index.php)に移動します。
-1. 下記のコードをアドレスバーにコピペします。
+1. 下記のコードをアドレスバーにコピペします(`javascript:`の部分が勝手に消えることがあるので注意)。
 
 ```
 javascript:(function(){var d=document;var s=d.createElement('script');s.src='https://raw.github.com/treby/millimas-album/master/js/app.js'; d.body.appendChild(s)})();

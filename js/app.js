@@ -22,24 +22,40 @@ function action(num) {
             color: '#fff',
             fontSize: 30,
             textAlign: 'center',
-            paddingTop: '15em'
-        }).attr('id', '___overlay').text('埋まっていないのサーチ').appendTo('body');
+            paddingTop: '5em'
+        }).attr('id', '___overlay').text('アルバム埋まってないのサーチ').appendTo('body');
+        action_confirm = 
         total = 0;
+        if (!confirm('集計を始めるの')) {
+            $('#___overlay').remove();
+            return;
+        }
     }
 
     var progress = load(num);
-    $('#___overlay').text('集計中なの！  / '+(num+1)+'ページ目');
+    $('#___overlay').text((num+1)+'ページ目を集計中なの！');
     progress.done(function(page_total){
         total += page_total;
 
         if (num < MAX_PAGE) {
             action(num+1);
         } else {
-            txt = '';
-            $.each(unknown_list, function(index){
-                txt += unknown_list[index] +'\r\n';
+            // 集計完了 
+            $('#___overlay').text('集計完了なの！');
+            alert(unknown_list.length+'枚のカードが埋まってないの！');
+
+            var txt = $('<textarea>').addClass('textarea');
+            txt.attr({
+                rows : '10',
+                style : 'width:280px;'
             });
-            alert(txt);
+            var t = '';
+            $.each(unknown_list, function(index){
+                t += unknown_list[index] +'\r\n';
+            });
+
+            txt.val(t);
+            $('#wrapper').prepend(txt);
             $('#___overlay').remove();
         }
     }).fail(function(){

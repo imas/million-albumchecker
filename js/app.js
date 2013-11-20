@@ -77,7 +77,7 @@ function load(num) {
                 _total++;
             } else {
                 if (pointer < 651)
-                unknown_list.push(card_list[pointer][3]); 
+                unknown_list.push(card_list[pointer][2] + ' ' + card_list[pointer][3]); 
             }
 
             pointer++;

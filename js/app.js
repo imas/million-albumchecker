@@ -33,7 +33,7 @@ function action(num) {
     }
 
     var progress = load(num);
-    $('#___overlay').text((num+1)+'ページ目を集計中なの！');
+    $('#___overlay').text(num+'ページ目を集計中なの！');
     progress.done(function(page_total){
         total += page_total;
 
@@ -76,8 +76,9 @@ function load(num) {
             if (typeof anchor_elm !== 'undefined') {
                 _total++;
             } else {
-                if (pointer < 651)
-                unknown_list.push(card_list[pointer][2] + ' ' + card_list[pointer][3]); 
+                if (card_list.hasOwnProperty(pointer)) {
+                    unknown_list.push(card_list[pointer][2] + ' ' + card_list[pointer][3]);
+                }
             }
 
             pointer++;

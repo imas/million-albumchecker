@@ -3,7 +3,7 @@ require 'nokogiri'
 require 'open-uri'
 
 def idol_id(card_name)
-  idol_list = JSON.load(File.read('millimas-album/data/idol_list.json'))
+  idol_list = JSON.load(File.read('../json/idol_list.json'))
   idol_id = -1
   idol_name = /\S+$/.match(card_name).to_s
 
@@ -46,7 +46,7 @@ wiki_body = html.css('#wikibody').first
 table_list = wiki_body.css('table')
 
 table_list.each_with_index do |table, i|
-  if i < 6 then
+  if i < 10 then
     tr_list = table.children
     tr_list.each_with_index do |tr_elm, j|
       if (j % 6) != 0 then
@@ -60,4 +60,4 @@ table_list.each_with_index do |table, i|
   end
 end
 
-File.write("card_list.json", JSON.pretty_generate(card_list))
+File.write("../json/card_list.json", JSON.pretty_generate(card_list))

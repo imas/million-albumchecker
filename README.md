@@ -6,6 +6,7 @@ millimas-album
 
 ## 使い方
 1. [GREE](http://gree.jp/?mode=login)にログイン後、[アプリのページ](http://imas.gree-apps.net/app/index.php)に移動します。
+    - PCからのアクセスは弾かれるようになっておりますが、そこはよしなに解決してください。
 1. 下記のコードをアドレスバーにコピペします(`javascript:`の部分が勝手に消えることがあるので注意)。
 
 ```
@@ -27,4 +28,4 @@ javascript:(function(){var d=document;var s=d.createElement('script');s.src='htt
 - [アイドルマスター ミリオンライブ！@wiki](http://www50.atwiki.jp/imas_ml/)
   - カードデータはこちらから拝借しております。
 - [いままでいくらAmazonで買い物したか合計するブックマークレット書いた - モロ屋](http://moroya.hatenablog.jp/entry/2013/06/03/225935)
-  - bookmarkletの仕組みを非常に参考にさせていただきました(半コピペ)。
+  - bookmarkletの仕組みを非常に参考にさせていただきました。

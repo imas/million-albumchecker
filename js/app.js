@@ -1,6 +1,6 @@
 (function(){
 // 現在対応しているページ数
-var MAX_PAGE = 30;
+var MAX_PAGE = 37;
 
 var total = 0;
 var pointer = 1;

@@ -60,4 +60,6 @@ table_list.each_with_index do |table, i|
   end
 end
 
-File.write("../json/card_list.json", JSON.pretty_generate(card_list))
+json_card_list = JSON.pretty_generate(card_list)
+File.write('../json/card_list.json', json_card_list)
+File.write('../js/card_list_json.js', "var ___millimas_card_list =\n" + json_card_list + ";\n")

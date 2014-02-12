@@ -18,7 +18,7 @@ def idol_id(card_name)
 end
 
 pointer = 1
-card_list = {}
+card_list = []
 
 # 1ページ目
 html = Nokogiri::HTML(open('http://www50.atwiki.jp/imas_ml/pages/180.html'))
@@ -32,8 +32,8 @@ table_list.each_with_index do |table, i|
       if (j % 6) != 0 then
         td_list = tr_elm.css('td')
 
-        card = [ idol_id(td_list[2].inner_text), td_list[1].inner_text, td_list[0].inner_text, td_list[2].inner_text ]
-        card_list.store(pointer.to_s, card)
+        card = { "id" => pointer.to_s, "idol_id" => idol_id(td_list[2].inner_text), "idol_type" => td_list[1].inner_text, "rare" => td_list[0].inner_text, "name" => td_list[2].inner_text }
+        card_list.push(card)
         pointer = pointer+1
       end
     end
@@ -52,8 +52,8 @@ table_list.each_with_index do |table, i|
       if (j % 6) != 0 then
         td_list = tr_elm.css('td')
 
-        card = [ idol_id(td_list[2].inner_text), td_list[1].inner_text, td_list[0].inner_text, td_list[2].inner_text ]
-        card_list.store(pointer.to_s, card)
+        card = { "id" => pointer.to_s, "idol_id" => idol_id(td_list[2].inner_text), "idol_type" => td_list[1].inner_text, "rare" => td_list[0].inner_text, "name" => td_list[2].inner_text }
+        card_list.push(card)
         pointer = pointer+1
       end
     end

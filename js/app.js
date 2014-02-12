@@ -1,9 +1,9 @@
 (function(){
 // 現在対応しているページ数
-var MAX_PAGE = 37;
+var MAX_PAGE;
 
 var total = 0;
-var pointer = 1;
+var pointer = 0;
 var card_list;
 var unknown_list = new Array();    // 未知のカードリスト
 
@@ -11,6 +11,7 @@ function action(num) {
     if(typeof num !== 'number') {
         num = 0;
         card_list = ___millimas_card_list;
+        MAX_PAGE = card_list.length / 25;
         $('<div/>').css({
             position: 'fixed',
             left: 0,
@@ -77,7 +78,7 @@ function load(num) {
                 _total++;
             } else {
                 if (card_list.hasOwnProperty(pointer)) {
-                    unknown_list.push(card_list[pointer][2] + ' ' + card_list[pointer][3]);
+                    unknown_list.push(card_list[pointer]['rare'] + ' ' + card_list[pointer]['name']);
                 }
             }
 

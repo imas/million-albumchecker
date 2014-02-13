@@ -1,7 +1,7 @@
 (function(){
-// 現在対応しているページ数
-var MAX_PAGE;
+var CARD_COUNT_PER_PAGE = 25;
 
+var page_limit = 0;
 var total = 0;
 var pointer = 0;
 var card_list;
@@ -11,7 +11,7 @@ function action(num) {
     if(typeof num !== 'number') {
         num = 0;
         card_list = ___millimas_card_list;
-        MAX_PAGE = card_list.length / 25;
+        page_limit = card_list.length / CARD_COUNT_PER_PAGE;
         $('<div/>').css({
             position: 'fixed',
             left: 0,
@@ -38,7 +38,7 @@ function action(num) {
     progress.done(function(page_total){
         total += page_total;
 
-        if (num < MAX_PAGE) {
+        if (num < page_limit) {
             action(num+1);
         } else {
             // 集計完了 

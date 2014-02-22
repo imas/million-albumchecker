@@ -46,7 +46,7 @@ wiki_body = html.css('#wikibody').first
 table_list = wiki_body.css('table')
 
 table_list.each_with_index do |table, i|
-  if i < 16 then
+  if i < 18 then
     tr_list = table.children
     tr_list.each_with_index do |tr_elm, j|
       if (j % 6) != 0 then

@@ -6299,5 +6299,355 @@ var ___millimas_card_list =
     "idol_type": "Da",
     "rare": "HR",
     "name": "鋼鉄の女艦長 佐竹美奈子"
+  },
+  {
+    "id": "901",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "トラブルルーキー 矢吹可奈"
+  },
+  {
+    "id": "902",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "戦士の心 矢吹可奈"
+  },
+  {
+    "id": "903",
+    "idol_id": 13,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "歴戦の猛者 我那覇響"
+  },
+  {
+    "id": "904",
+    "idol_id": 13,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ラストミッション 我那覇響"
+  },
+  {
+    "id": "905",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "お忍びバカンスごっこ 松田亜利沙"
+  },
+  {
+    "id": "906",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "ほのぼの？海中遊泳 真壁瑞希"
+  },
+  {
+    "id": "907",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "思い出のかけら 宮尾美也"
+  },
+  {
+    "id": "908",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "激レア！セクシーショット 高山紗代子"
+  },
+  {
+    "id": "909",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "爽快ライディング！ 伊吹翼"
+  },
+  {
+    "id": "910",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "遊び疲れて夢心地 伊吹翼"
+  },
+  {
+    "id": "911",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "賑やかナイトパーティー！ 高槻やよい"
+  },
+  {
+    "id": "912",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "常夏ファイヤーダンス 高槻やよい"
+  },
+  {
+    "id": "913",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "スピードクラフト ロコ"
+  },
+  {
+    "id": "914",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "挑戦！空中ブランコ 高坂海美"
+  },
+  {
+    "id": "915",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "一生懸命の音色 中谷育"
+  },
+  {
+    "id": "916",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "清涼水からくり 天空橋朋花"
+  },
+  {
+    "id": "917",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "高揚の響き 最上静香"
+  },
+  {
+    "id": "918",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "大舞台の余韻 最上静香"
+  },
+  {
+    "id": "919",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "美しきエージェント 百瀬莉緒"
+  },
+  {
+    "id": "920",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "かくし芸クイーン誕生！ 百瀬莉緒"
+  },
+  {
+    "id": "921",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "危うい手つき ジュリア"
+  },
+  {
+    "id": "922",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "めっちゃデコチョコ！ 横山奈緒"
+  },
+  {
+    "id": "923",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "こだわりの素材 萩原雪歩"
+  },
+  {
+    "id": "924",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "スウィートブラウニー 箱崎星梨花"
+  },
+  {
+    "id": "925",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "甘ーいサプライズ 百瀬莉緒"
+  },
+  {
+    "id": "926",
+    "idol_id": 12,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "キケンな贈り物 双海真美"
+  },
+  {
+    "id": "927",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "瀟洒なディナー 水瀬伊織"
+  },
+  {
+    "id": "928",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "プリティーキャット 水瀬伊織"
+  },
+  {
+    "id": "929",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "特大抹茶トリュフ エミリー"
+  },
+  {
+    "id": "930",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "和みのご奉仕 エミリー"
+  },
+  {
+    "id": "931",
+    "idol_id": 45,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "一瞬のプライベートタイム 篠宮可憐"
+  },
+  {
+    "id": "932",
+    "idol_id": 45,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ゴージャスご奉仕！ 篠宮可憐"
+  },
+  {
+    "id": "933",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "朝イチライブ！ 松田亜利沙"
+  },
+  {
+    "id": "934",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "ビリビリ電波ライブ 松田亜利沙"
+  },
+  {
+    "id": "935",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "次は私の番！ 松田亜利沙"
+  },
+  {
+    "id": "936",
+    "idol_id": 8,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ライブシアター第9幕 四条貴音"
+  },
+  {
+    "id": "937",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ライブシアター第9幕 高坂海美"
+  },
+  {
+    "id": "938",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ライブシアター第9幕 徳川まつり"
+  },
+  {
+    "id": "939",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ライブシアター第9幕 宮尾美也"
+  },
+  {
+    "id": "940",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "なかよしランチタイム 高槻やよい"
+  },
+  {
+    "id": "941",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "ナイショのお手製衣装 ロコ"
+  },
+  {
+    "id": "942",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "大胆ストレッチ 島原エレナ"
+  },
+  {
+    "id": "943",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "クールに魅せて 島原エレナ"
+  },
+  {
+    "id": "944",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "色とりどりの想い 周防桃子"
+  },
+  {
+    "id": "945",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "想いを一つに 周防桃子"
+  },
+  {
+    "id": "946",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "バレンタインキャラバン 天海春香"
+  },
+  {
+    "id": "947",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "バレンタインキャラバン 高坂海美"
+  },
+  {
+    "id": "948",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "バレンタインキャラバン 北沢志保"
+  },
+  {
+    "id": "949",
+    "idol_id": 2,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "悩めるメイド 如月千早"
+  },
+  {
+    "id": "950",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "疾風のご奉仕 野々原茜"
   }
 ];

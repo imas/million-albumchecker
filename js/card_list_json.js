@@ -6649,5 +6649,355 @@ var ___millimas_card_list =
     "idol_type": "Da",
     "rare": "R",
     "name": "疾風のご奉仕 野々原茜"
+  },
+  {
+    "id": "951",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "はらはらメイド 中谷育"
+  },
+  {
+    "id": "952",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "わくわくチョコ爆弾 双海亜美"
+  },
+  {
+    "id": "953",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "色気なき戦い 馬場このみ"
+  },
+  {
+    "id": "954",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ゴージャス！チョコフィーバー 二階堂千鶴"
+  },
+  {
+    "id": "955",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "真心をプレゼント 二階堂千鶴"
+  },
+  {
+    "id": "956",
+    "idol_id": 17,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "甘い一夜の夢 田中琴葉"
+  },
+  {
+    "id": "957",
+    "idol_id": 17,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "貴方へのスイートハート 田中琴葉"
+  },
+  {
+    "id": "958",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "アイドルヒーローズ 天空橋朋花"
+  },
+  {
+    "id": "959",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "アイドルヒーローズ 大神環"
+  },
+  {
+    "id": "960",
+    "idol_id": 9,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "アイドルヒーローズ 秋月律子"
+  },
+  {
+    "id": "961",
+    "idol_id": 8,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "シャドウレディー 四条貴音"
+  },
+  {
+    "id": "962",
+    "idol_id": 41,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "バトルナース 豊川風花"
+  },
+  {
+    "id": "963",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "ジャイアントガール 木下ひなた"
+  },
+  {
+    "id": "964",
+    "idol_id": 13,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "デストル幹部 我那覇響"
+  },
+  {
+    "id": "965",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "荒ぶる衝動 高山紗代子"
+  },
+  {
+    "id": "966",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "記念スナップ 高山紗代子"
+  },
+  {
+    "id": "967",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "レジェンドヒーロー 七尾百合子"
+  },
+  {
+    "id": "968",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "クランクアップ！ 七尾百合子"
+  },
+  {
+    "id": "969",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "ダイナミック豆まき 春日未来"
+  },
+  {
+    "id": "970",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "鬼をも怯ます視線 菊地真"
+  },
+  {
+    "id": "971",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "豆は鬼の内！ 矢吹可奈"
+  },
+  {
+    "id": "972",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "ミッション失敗！ 所恵美"
+  },
+  {
+    "id": "973",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "暴れ鬼無双 福田のり子"
+  },
+  {
+    "id": "974",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "BIGなご褒美タイム 福田のり子"
+  },
+  {
+    "id": "975",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ハイテク隠れ鬼 望月杏奈"
+  },
+  {
+    "id": "976",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "電光鳴神ライブ 望月杏奈"
+  },
+  {
+    "id": "977",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "絶景秘湯ライブ 佐竹美奈子"
+  },
+  {
+    "id": "978",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ぽかぽかサービス 佐竹美奈子"
+  },
+  {
+    "id": "979",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "フロンティアスピリッツ 真壁瑞希"
+  },
+  {
+    "id": "980",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "スペシャル特大おにぎり 星井美希"
+  },
+  {
+    "id": "981",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "消える雪球 永吉昴"
+  },
+  {
+    "id": "982",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "白銀のドレス 三浦あずさ"
+  },
+  {
+    "id": "983",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "かまくら鍋パーティー 舞浜歩"
+  },
+  {
+    "id": "984",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "雪解けブレイクダンス！ 舞浜歩"
+  },
+  {
+    "id": "985",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "雪だるま将軍 徳川まつり"
+  },
+  {
+    "id": "986",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "麗しのスノークイーン 徳川まつり"
+  },
+  {
+    "id": "987",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "ドキッと新ポーズ！ 島原エレナ"
+  },
+  {
+    "id": "988",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "夢の新衣装 伊吹翼"
+  },
+  {
+    "id": "989",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "感謝の歌 最上静香"
+  },
+  {
+    "id": "990",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "感激の歌 徳川まつり"
+  },
+  {
+    "id": "991",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ナイショのパーティー準備 天海春香"
+  },
+  {
+    "id": "992",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "キラメキ進行形！ 天海春香"
+  },
+  {
+    "id": "993",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "直撃ファンレター 横山奈緒"
+  },
+  {
+    "id": "994",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "H☆L☆ジェットマシーン 横山奈緒"
+  },
+  {
+    "id": "995",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "感謝のおてがみバルーン 中谷育"
+  },
+  {
+    "id": "996",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "グッデイ・サンシャイン！ 中谷育"
+  },
+  {
+    "id": "997",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ライブシアター第10幕 菊地真"
+  },
+  {
+    "id": "998",
+    "idol_id": 12,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ライブシアター第10幕 双海真美"
+  },
+  {
+    "id": "999",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ライブシアター第10幕 島原エレナ"
+  },
+  {
+    "id": "1000",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ライブシアター第10幕 舞浜歩"
   }
 ];

@@ -2,7 +2,7 @@ millimas-album
 ======
 [アイドルマスター ミリオンライブ！](http://www.bandainamcogames.co.jp/cs/list/idolmaster/million_live/)用のアルバム達成状況を確認するためのbookmarkletです。
 
-現在、『疾風のご奉仕 野々原茜』まで対応しています。
+現在、『ライブシアター第10幕 舞浜歩』まで対応しています。
 
 ## 使い方
 1. [GREE](http://gree.jp/?mode=login)にログイン後、[アプリのページ](http://imas.gree-apps.net/app/index.php)に移動します。

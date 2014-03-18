@@ -6973,30 +6973,30 @@
   },
   {
     "id": "997",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "目指せガーリー！ 永吉昴"
+  },
+  {
+    "id": "998",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "アダルティにも挑戦！ 永吉昴"
+  },
+  {
+    "id": "999",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "この日一番のドキドキ 永吉昴"
+  },
+  {
+    "id": "1000",
     "idol_id": 6,
     "idol_type": "Da",
     "rare": "SR",
     "name": "ライブシアター第10幕 菊地真"
-  },
-  {
-    "id": "998",
-    "idol_id": 12,
-    "idol_type": "Vi",
-    "rare": "SR",
-    "name": "ライブシアター第10幕 双海真美"
-  },
-  {
-    "id": "999",
-    "idol_id": 18,
-    "idol_type": "Da",
-    "rare": "SR",
-    "name": "ライブシアター第10幕 島原エレナ"
-  },
-  {
-    "id": "1000",
-    "idol_id": 34,
-    "idol_type": "Da",
-    "rare": "SR",
-    "name": "ライブシアター第10幕 舞浜歩"
   }
 ]

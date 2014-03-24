@@ -6998,5 +6998,180 @@
     "idol_type": "Da",
     "rare": "SR",
     "name": "ライブシアター第10幕 菊地真"
+  },
+  {
+    "id": "1001",
+    "idol_id": 12,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ライブシアター第10幕 双海真美"
+  },
+  {
+    "id": "1002",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ライブシアター第10幕 島原エレナ"
+  },
+  {
+    "id": "1003",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ライブシアター第10幕 舞浜歩"
+  },
+  {
+    "id": "1004",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "アイドルシンフォニー 高山紗代子"
+  },
+  {
+    "id": "1005",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "アイドルシンフォニー 百瀬莉緒"
+  },
+  {
+    "id": "1006",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "アイドルシンフォニー 双海亜美"
+  },
+  {
+    "id": "1007",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "のんびりテクニカル 三浦あずさ"
+  },
+  {
+    "id": "1008",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "チューバお姉さん 馬場このみ"
+  },
+  {
+    "id": "1009",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "ゴージャスサックス 二階堂千鶴"
+  },
+  {
+    "id": "1010",
+    "idol_id": 17,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "清らかな音色 田中琴葉"
+  },
+  {
+    "id": "1011",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "わくわくドラムロール 周防桃子"
+  },
+  {
+    "id": "1012",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "精密なる指揮 真壁瑞希"
+  },
+  {
+    "id": "1013",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "春風そよぐステージ 真壁瑞希"
+  },
+  {
+    "id": "1014",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "儚くも美しきメロディ 萩原雪歩"
+  },
+  {
+    "id": "1015",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "満開のステージ 萩原雪歩"
+  },
+  {
+    "id": "1016",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "うきうき官女 箱崎星梨花"
+  },
+  {
+    "id": "1017",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "ノリノリつづみ 野々原茜"
+  },
+  {
+    "id": "1018",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "涼しげな音色 菊地真"
+  },
+  {
+    "id": "1019",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "雅な心地 七尾百合子"
+  },
+  {
+    "id": "1020",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "Let's Go！ 雛ロック ジュリア"
+  },
+  {
+    "id": "1021",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "恥じらいお雛様 ジュリア"
+  },
+  {
+    "id": "1022",
+    "idol_id": 12,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "Go！Go！雛ロック 双海真美"
+  },
+  {
+    "id": "1023",
+    "idol_id": 12,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "たいくつお姫様 双海真美"
+  },
+  {
+    "id": "1024",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ルーントリガー 北沢志保"
+  },
+  {
+    "id": "1025",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "夜明けの魔法少女 北沢志保"
   }
 ]

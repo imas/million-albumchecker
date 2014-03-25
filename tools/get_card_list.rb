@@ -35,8 +35,8 @@ def idol_id(card_name)
   idol_name = /\S+$/.match(card_name).to_s
 
   idol_list.each do |idol|
-    if idol[1]["name"] == idol_name
-      idol_id = idol[0]
+    if idol_name == idol["name"]
+      idol_id = idol["id"]
       break
     end
   end

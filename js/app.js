@@ -9,7 +9,7 @@ var unknown_list = new Array();    // 未知のカードリスト
 
 function action(num) {
     if(typeof num !== 'number') {
-        num = 0;
+        num = 1;
         card_list = ___millimas_card_list;
         page_limit = card_list.length / CARD_COUNT_PER_PAGE;
         $('<div/>').css({
@@ -25,7 +25,6 @@ function action(num) {
             textAlign: 'center',
             paddingTop: '5em'
         }).attr('id', '___overlay').text('アルバム埋まってないのサーチ').appendTo('body');
-        action_confirm = 
         total = 0;
         if (!confirm('集計を始めるの')) {
             $('#___overlay').remove();
@@ -41,7 +40,7 @@ function action(num) {
         if (num < page_limit) {
             action(num+1);
         } else {
-            // 集計完了 
+            // 集計完了
             $('#___overlay').text('集計完了なの！');
             alert(unknown_list.length+'枚のカードが埋まってないの！');
 
@@ -60,7 +59,8 @@ function action(num) {
             $('#___overlay').remove();
         }
     }).fail(function(){
-        alert('fail:' + total);
+        alert('Failed:' + unknown_list.length);
+        console.log(unknown_list);
         $('#___overlay').remove();
     });
 }
@@ -95,7 +95,7 @@ function load(num) {
 function get(num) {
     var df = $.Deferred();
     $.ajax({
-        url: 'http://imas.gree-apps.net/app/index.php/album/all_card_select/page/'+(num+1),
+        url: 'http://imas.gree-apps.net/app/index.php/album/all_card_select/page/'+num,
         success: function(data){
             df.resolve(data);
         }

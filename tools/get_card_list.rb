@@ -2,7 +2,7 @@ require 'json'
 require 'nokogiri'
 require 'open-uri'
 
-page_list = {206 => 10, 205 => 10, 204 => 10, 203 => 10, 208 => 2}
+page_list = {206 => 10, 205 => 10, 204 => 10, 203 => 10, 208 => 1}
 
 def card_list_of(page, limit, pointer)
   card_list = []

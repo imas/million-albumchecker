@@ -30,7 +30,7 @@ def card_list_of(page, limit, pointer)
 end
 
 def idol_id(card_name)
-  idol_list = JSON.load(File.read('../json/idol_list.json'))
+  idol_list = JSON.load(File.read(File.dirname(__FILE__) + '/../json/idol_list.json'))
   idol_id = -1
   idol_name = /\S+$/.match(card_name).to_s
 
@@ -52,5 +52,5 @@ page_list.each do |page_info|
 end
 
 json_card_list = JSON.pretty_generate(all_card_list)
-File.write('../json/card_list.json', json_card_list)
-File.write('../js/card_list_json.js', "var ___millimas_card_list =\n" + json_card_list + ";\n")
+File.write(File.dirname(__FILE__) + '/../json/card_list.json', json_card_list)
+File.write(File.dirname(__FILE__) + '/../js/card_list_json.js', "var ___millimas_card_list =\n" + json_card_list + ";\n")

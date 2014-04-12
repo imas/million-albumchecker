@@ -24,34 +24,39 @@ function action(num) {
             fontSize: 30,
             textAlign: 'center',
             paddingTop: '5em'
-        }).attr('id', '___overlay').text('アルバム埋まってないのサーチ').appendTo('body');
+        }).attr('id', '___overlay').text('ミリマスアルバム達成度チェック').appendTo('body');
         total = 0;
-        if (!confirm('集計を始めるの')) {
+        if (!confirm(page_limit + '回のアクセスが発生します。実行しますか？')) {
             $('#___overlay').remove();
             return;
         }
     }
 
     var progress = load(num);
-    $('#___overlay').text(num+'ページ目を集計中なの！');
+    $('#___overlay').text(num + ' / ' + page_limit + 'ページ目をチェック中...');
     progress.done(function(page_total){
         total += page_total;
 
         if (num < page_limit) {
             action(num+1);
         } else {
-            // 集計完了
-            $('#___overlay').text('集計完了なの！');
-            alert(unknown_list.length+'枚のカードが埋まってないの！');
+            // チェック完了
+            $('#___overlay').text('チェック完了');
+            alert(card_list.slice(-1)[0].name + 'までの' + card_list.length + '枚中、' + unknown_list.length + '枚のカードが埋まっていませんでした。');
 
             var txt = $('<textarea>').addClass('textarea');
             txt.attr({
                 rows : '10',
                 style : 'width:280px;'
             });
-            var t = '';
+
+            var today = new Date();
+            var t = today.toLocaleDateString() + '時点\r\n';
+            t += '埋まっていないカード数：' + unknown_list.length + '枚\r\n';
+            t += '-----\r\n\r\n';
+
             $.each(unknown_list, function(index){
-                t += unknown_list[index] +'\r\n';
+                t += unknown_list[index] + '\r\n';
             });
 
             txt.val(t);

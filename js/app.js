@@ -5,6 +5,8 @@ var page_limit = 0;
 var total = 0;
 var pointer = 0;
 var card_list;
+var skip_page_list = new Array();
+var completed_page_list = new Array();
 var unknown_list = new Array();    // 未知のカードリスト
 
 function action(num) {
@@ -26,62 +28,55 @@ function action(num) {
             paddingTop: '5em'
         }).attr('id', '___overlay').text('ミリマスアルバム達成度チェック').appendTo('body');
         total = 0;
-        if (!confirm(page_limit + '回のアクセスが発生します。実行しますか？')) {
+
+        var skip_pages = prompt('達成しているページ(オプション):', '');
+        if (skip_pages) {
+            skip_pages.split(',').forEach(function(skip_page) {
+                skip_page_list.push(parseInt(skip_page.trim()));
+            });
+            skip_page_list = skip_page_list.filter(function (x, i, self) {
+                return self.indexOf(x) === i;
+            });
+        }
+
+        if (!confirm((page_limit - skip_page_list.length) + '回のアクセスが発生します。実行しますか？')) {
             $('#___overlay').remove();
             return;
         }
     }
 
-    var progress = load(num);
-    $('#___overlay').text(num + ' / ' + page_limit + 'ページ目をチェック中...');
-    progress.done(function(page_total){
-        total += page_total;
+    if (skip_page_list.indexOf(num) > -1) {
+        $('#___overlay').text(num + ' / ' + page_limit + 'ページ目をスキップ');
+        completed_page_list.push(num);
+        pointer += CARD_COUNT_PER_PAGE;
+        next(num, 0);
+    } else {
+        $('#___overlay').text(num + ' / ' + page_limit + 'ページ目をチェック中...');
+        var progress = load(num);
 
-        if (num < page_limit) {
-            action(num+1);
-        } else {
-            // チェック完了
-            $('#___overlay').text('チェック完了');
-            alert(card_list.slice(-1)[0].name + 'までの' + card_list.length + '枚中、' + unknown_list.length + '枚のカードが埋まっていませんでした。');
-
-            var txt = $('<textarea>').addClass('textarea');
-            txt.attr({
-                rows : '10',
-                style : 'width:280px;'
-            });
-
-            var today = new Date();
-            var t = today.toLocaleDateString() + '時点\r\n';
-            t += '埋まっていないカード数：' + unknown_list.length + '枚\r\n';
-            t += '-----\r\n\r\n';
-
-            $.each(unknown_list, function(index){
-                t += unknown_list[index] + '\r\n';
-            });
-
-            txt.val(t);
-            $('#wrapper').prepend(txt);
+        progress.done(next).fail(function(){
+            alert('Failed:' + unknown_list.length);
+            console.log(unknown_list);
             $('#___overlay').remove();
-        }
-    }).fail(function(){
-        alert('Failed:' + unknown_list.length);
-        console.log(unknown_list);
-        $('#___overlay').remove();
-    });
+        });
+    }
 }
 
 function load(num) {
     var df = $.Deferred();
+
     var page = get(num);
     page.done(function(data){
         var dom = $.parseHTML(data);
         var _total = 0;
+        var _completed_flag = true;
 
-        $(dom).find('.s-mb').each(function(i){
+        $(dom).find('.s-mb').each(function(i) {
             anchor_elm = $('a', $(this)).html();
             if (typeof anchor_elm !== 'undefined') {
                 _total++;
             } else {
+                _completed_flag = false;
                 if (card_list.hasOwnProperty(pointer)) {
                     unknown_list.push(card_list[pointer]['rare'] + ' ' + card_list[pointer]['name']);
                 }
@@ -90,8 +85,11 @@ function load(num) {
             pointer++;
         });
 
-        if(_total === 0) df.reject();
-        else df.resolve(_total);
+        if (_completed_flag) {
+            completed_page_list.push(num);
+        }
+
+        df.resolve(num, _total);
     });
 
     return df.promise();
@@ -106,6 +104,38 @@ function get(num) {
         }
     });
     return df.promise();
+}
+
+function next(num, page_total){
+    total += page_total;
+
+    if (num < page_limit) {
+        action(num+1);
+    } else {
+        // チェック完了
+        $('#___overlay').text('チェック完了');
+        alert(card_list.slice(-1)[0].name + 'までの' + card_list.length + '枚中、' + unknown_list.length + '枚のカードが埋まっていませんでした。');
+
+        var txt = $('<textarea>').addClass('textarea');
+        txt.attr({
+            rows : '10',
+            style : 'width:280px;'
+        });
+
+        var today = new Date();
+        var t = today.toLocaleDateString() + '時点\r\n';
+        t += '埋まっていないカード数：' + unknown_list.length + '枚\r\n';
+        t += '達成しているページ：' + completed_page_list.join(',') + '\r\n';
+        t += '-----\r\n\r\n';
+
+        $.each(unknown_list, function(index){
+            t += unknown_list[index] + '\r\n';
+        });
+
+        txt.val(t);
+        $('#wrapper').prepend(txt);
+        $('#___overlay').remove();
+    }
 }
 
 var d=document;

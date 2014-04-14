@@ -51,6 +51,12 @@ page_list.each do |page_info|
   pointer = all_card_list.length + 1
 end
 
+# js and json update
 json_card_list = JSON.pretty_generate(all_card_list)
 File.write(File.expand_path('../json/card_list.json', File.dirname(__FILE__)), json_card_list)
 File.write(File.expand_path('../js/card_list_json.js', File.dirname(__FILE__)), "var ___millimas_card_list =\n" + json_card_list + ";\n")
+
+# readme update
+readme = File.read(File.expand_path('../README.md', File.dirname(__FILE__)))
+readme.gsub!(/『.+?』/, "『" + all_card_list.last['name'] + "』")
+File.write(File.expand_path('../README.md', File.dirname(__FILE__)), readme)

@@ -1,62 +1,61 @@
-(function(){
+(function() {
 var CARD_COUNT_PER_PAGE = 25;
 
-var page_limit = 0;
-var total = 0;
-var pointer = 0;
-var card_list;
 var skip_page_list = new Array();
 var completed_page_list = new Array();
-var unknown_list = new Array();    // 未知のカードリスト
 
-function action(num) {
-    if(typeof num !== 'number') {
-        num = 1;
-        card_list = ___millimas_card_list;
-        page_limit = card_list.length / CARD_COUNT_PER_PAGE;
-        $('<div/>').css({
-            position: 'fixed',
-            left: 0,
-            top: 0,
-            width: '100%',
-            height: '100%',
-            zIndex: 1000,
-            backgroundColor: 'rgba(0,0,0,.7)',
-            color: '#fff',
-            fontSize: 30,
-            textAlign: 'center',
-            paddingTop: '5em'
-        }).attr('id', '___overlay').text('ミリマスアルバム達成度チェック').appendTo('body');
-        total = 0;
+var card_list;
+var unknown_card_list = new Array();
 
-        var skip_pages = prompt('達成しているページ(オプション):', '');
-        if (skip_pages) {
-            skip_pages.split(',').forEach(function(skip_page) {
-                skip_page_list.push(parseInt(skip_page.trim()));
-            });
-            skip_page_list = skip_page_list.filter(function (x, i, self) {
-                return self.indexOf(x) === i;
-            });
-        }
+var page_limit = 0;
 
-        if (!confirm((page_limit - skip_page_list.length) + '回のアクセスが発生します。実行しますか？')) {
-            $('#___overlay').remove();
-            return;
-        }
+function init() {
+    card_list = ___millimas_card_list;
+    page_limit = card_list.length / CARD_COUNT_PER_PAGE;
+    $('<div/>').css({
+        position: 'fixed',
+        left: 0,
+        top: 0,
+        width: '100%',
+        height: '100%',
+        zIndex: 1000,
+        backgroundColor: 'rgba(0,0,0,.7)',
+        color: '#fff',
+        fontSize: 30,
+        textAlign: 'center',
+        paddingTop: '5em'
+    }).attr('id', '___overlay').text('ミリマスアルバム達成度チェック').appendTo('body');
+
+    var skip_pages = prompt('達成しているページ(オプション):', '');
+    if (skip_pages) {
+        skip_pages.split(',').forEach(function(skip_page) {
+            skip_page_list.push(parseInt(skip_page.trim()));
+        });
+        skip_page_list = skip_page_list.filter(function (x, i, self) {
+            return self.indexOf(x) === i;
+        });
     }
 
+    if (!confirm((page_limit - skip_page_list.length) + '回のアクセスが発生します。実行しますか？')) {
+        $('#___overlay').remove();
+        return;
+    }
+
+    action(1);
+}
+
+function action(num) {
     if (skip_page_list.indexOf(num) > -1) {
         $('#___overlay').text(num + ' / ' + page_limit + 'ページ目をスキップ');
         completed_page_list.push(num);
-        pointer += CARD_COUNT_PER_PAGE;
-        next(num, 0);
+        next(num);
     } else {
         $('#___overlay').text(num + ' / ' + page_limit + 'ページ目をチェック中...');
         var progress = load(num);
 
         progress.done(next).fail(function(){
-            alert('Failed:' + unknown_list.length);
-            console.log(unknown_list);
+            alert('Failed:' + unknown_card_list.length);
+            console.log(unknown_card_list);
             $('#___overlay').remove();
         });
     }
@@ -66,33 +65,67 @@ function load(num) {
     var df = $.Deferred();
 
     var page = get(num);
-    page.done(function(data){
-        var dom = $.parseHTML(data);
-        var _total = 0;
-        var _completed_flag = true;
-
-        $(dom).find('.s-mb').each(function(i) {
-            anchor_elm = $('a', $(this)).html();
-            if (typeof anchor_elm !== 'undefined') {
-                _total++;
-            } else {
-                _completed_flag = false;
-                if (card_list.hasOwnProperty(pointer)) {
-                    unknown_list.push(card_list[pointer]['rare'] + ' ' + card_list[pointer]['name']);
-                }
-            }
-
-            pointer++;
-        });
-
-        if (_completed_flag) {
-            completed_page_list.push(num);
-        }
-
-        df.resolve(num, _total);
+    page.done(function(data) {
+        check(num, data);
+        df.resolve(num);
     });
 
     return df.promise();
+}
+
+function check(page_num, content) {
+    var dom = $.parseHTML(content);
+    var _completed_flag = true;
+    var p = CARD_COUNT_PER_PAGE * (page_num - 1);
+
+    $(dom).find('.s-mb').each(function(i) {
+        anchor_elm = $('a', $(this)).html();
+        if (typeof anchor_elm === 'undefined') {
+            _completed_flag = false;
+            if (card_list.hasOwnProperty(p)) {
+                unknown_card_list.push(card_list[p]['rare'] + ' ' + card_list[p]['name']);
+            }
+        }
+
+        p++;
+    });
+
+    if (_completed_flag) {
+        completed_page_list.push(page_num);
+    }
+}
+
+function next(num) {
+    if (num < page_limit) {
+        action(num+1);
+    } else {
+        finish();
+    }
+}
+
+function finish() {
+    $('#___overlay').text('チェック完了');
+    alert(card_list.slice(-1)[0].name + 'までの' + card_list.length + '枚中、' + unknown_card_list.length + '枚のカードが埋まっていませんでした。');
+
+    var txt = $('<textarea>').addClass('textarea');
+    txt.attr({
+        rows : '10',
+        style : 'width:280px;'
+    });
+
+    var today = new Date();
+    var t = today.toLocaleDateString() + '時点\r\n';
+    t += '埋まっていないカード数：' + unknown_card_list.length + '枚\r\n';
+    t += '達成しているページ：' + completed_page_list.join(',') + '\r\n';
+    t += '-----\r\n\r\n';
+
+    $.each(unknown_card_list, function(index){
+        t += unknown_card_list[index] + '\r\n';
+    });
+
+    txt.val(t);
+    $('#wrapper').prepend(txt);
+    $('#___overlay').remove();
 }
 
 function get(num) {
@@ -106,45 +139,13 @@ function get(num) {
     return df.promise();
 }
 
-function next(num, page_total){
-    total += page_total;
-
-    if (num < page_limit) {
-        action(num+1);
-    } else {
-        // チェック完了
-        $('#___overlay').text('チェック完了');
-        alert(card_list.slice(-1)[0].name + 'までの' + card_list.length + '枚中、' + unknown_list.length + '枚のカードが埋まっていませんでした。');
-
-        var txt = $('<textarea>').addClass('textarea');
-        txt.attr({
-            rows : '10',
-            style : 'width:280px;'
-        });
-
-        var today = new Date();
-        var t = today.toLocaleDateString() + '時点\r\n';
-        t += '埋まっていないカード数：' + unknown_list.length + '枚\r\n';
-        t += '達成しているページ：' + completed_page_list.join(',') + '\r\n';
-        t += '-----\r\n\r\n';
-
-        $.each(unknown_list, function(index){
-            t += unknown_list[index] + '\r\n';
-        });
-
-        txt.val(t);
-        $('#wrapper').prepend(txt);
-        $('#___overlay').remove();
-    }
-}
-
 var d=document;
 var jq=d.createElement('script');
 jq.src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js';
 var cl=d.createElement('script');
 cl.src='//raw.github.com/treby/millimas-album/master/js/card_list_json.js';
 jq.onload=function() {
-    cl.onload=action;
+    cl.onload=init;
     d.body.appendChild(cl);
 };
 d.body.appendChild(jq);

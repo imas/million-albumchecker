@@ -12,7 +12,8 @@ var page_limit = 0;
 function init() {
     card_list = ___millimas_card_list;
     page_limit = card_list.length / CARD_COUNT_PER_PAGE;
-    $('<div/>').css({
+    $('<div/>')
+    .css({
         position: 'fixed',
         left: 0,
         top: 0,
@@ -24,17 +25,31 @@ function init() {
         fontSize: 30,
         textAlign: 'center',
         paddingTop: '5em'
-    }).attr('id', '___overlay').text('ミリマスアルバム達成度チェック').appendTo('body');
+    })
+    .attr('id', '___overlay')
+    .html(card_list.slice(-1)[0].name + 'までの<br />ミリマスアルバム達成度チェック')
+    .appendTo('body');
 
     var skip_pages = prompt('達成しているページ(オプション):', '');
-    if (skip_pages) {
-        skip_pages.split(',').forEach(function(skip_page) {
-            skip_page_list.push(parseInt(skip_page.trim()));
-        });
-        skip_page_list = skip_page_list.filter(function (x, i, self) {
-            return self.indexOf(x) === i;
-        });
+
+    // キャンセルされた場合
+    if (skip_pages === null) {
+        $('#___overlay').remove();
+        return;
     }
+
+    // 入力文字列の解析
+    skip_pages.split(',').forEach(function(skip_page) {
+        if (skip_page_list.indexOf(skip_page) >= 0) {
+            return;
+        }
+
+        var page_num = parseInt(skip_page.trim());
+        if (isNaN(page_num) || page_num < 1 || page_num > page_limit) {
+            return;
+        }
+        skip_page_list.push(page_num);
+    });
 
     if (!confirm((page_limit - skip_page_list.length) + '回のアクセスが発生します。実行しますか？')) {
         $('#___overlay').remove();
@@ -49,16 +64,18 @@ function action(num) {
         $('#___overlay').text(num + ' / ' + page_limit + 'ページ目をスキップ');
         completed_page_list.push(num);
         next(num);
-    } else {
-        $('#___overlay').text(num + ' / ' + page_limit + 'ページ目をチェック中...');
-        var progress = load(num);
-
-        progress.done(next).fail(function(){
-            alert('Failed:' + unknown_card_list.length);
-            console.log(unknown_card_list);
-            $('#___overlay').remove();
-        });
+        return;
     }
+
+    $('#___overlay').text(num + ' / ' + page_limit + 'ページ目をチェック中...');
+    var progress = load(num);
+    progress.done(
+        next
+    ).fail(function() {
+        alert('エラーが発生しました:' + unknown_card_list.length);
+        console.log(unknown_card_list);
+        $('#___overlay').remove();
+    });
 }
 
 function load(num) {
@@ -98,9 +115,10 @@ function check(page_num, content) {
 function next(num) {
     if (num < page_limit) {
         action(num+1);
-    } else {
-        finish();
+        return;
     }
+
+    finish();
 }
 
 function finish() {

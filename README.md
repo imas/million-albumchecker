@@ -2,7 +2,7 @@ millimas-album
 ======
 [アイドルマスター ミリオンライブ！](http://www.bandainamcogames.co.jp/cs/list/idolmaster/million_live/)用のアルバム達成状況を確認するためのbookmarkletです。
 
-現在、『ハイスクールライブ！ 春日未来』まで対応しています。
+現在、『ラストチェック 秋月律子』まで対応しています。
 
 ## 使い方
 1. [GREE](http://gree.jp/?mode=login)にログイン後、[アプリのページ](http://imas.gree-apps.net/app/index.php)に移動します。

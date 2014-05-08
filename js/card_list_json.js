@@ -7524,5 +7524,355 @@ var ___millimas_card_list =
     "idol_type": "Vo",
     "rare": "HR",
     "name": "へとへと休憩タイム 松田亜利沙"
+  },
+  {
+    "id": "1076",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "ダイナミックジャンプ！ 北沢志保"
+  },
+  {
+    "id": "1077",
+    "idol_id": 9,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "パーフェクトシミュレーション 秋月律子"
+  },
+  {
+    "id": "1078",
+    "idol_id": 9,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ラストチェック 秋月律子"
+  },
+  {
+    "id": "1079",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "爆煙コーナーリング 菊地真"
+  },
+  {
+    "id": "1080",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "自転車 菊地真"
+  },
+  {
+    "id": "1081",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "Gアイドルキャッスル 望月杏奈"
+  },
+  {
+    "id": "1082",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "Gアイドルキャッスル 舞浜歩"
+  },
+  {
+    "id": "1083",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "Gアイドルキャッスル 双海亜美"
+  },
+  {
+    "id": "1084",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "絶叫！コチョコチョ地獄 矢吹可奈"
+  },
+  {
+    "id": "1085",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "余裕のサムズアップ 福田のり子"
+  },
+  {
+    "id": "1086",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "デビルハンド 宮尾美也"
+  },
+  {
+    "id": "1087",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "ジャッジメントスマイル 箱崎星梨花"
+  },
+  {
+    "id": "1088",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "天翔ける戦姫 野々原茜"
+  },
+  {
+    "id": "1089",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "乙女の恥じらい 野々原茜"
+  },
+  {
+    "id": "1090",
+    "idol_id": 2,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "戦う司令官 如月千早"
+  },
+  {
+    "id": "1091",
+    "idol_id": 2,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "勝利の女神 如月千早"
+  },
+  {
+    "id": "1092",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "ゆったり読書デート 七尾百合子"
+  },
+  {
+    "id": "1093",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "うきうき登山 北上麗花"
+  },
+  {
+    "id": "1094",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "個人練デート ジュリア"
+  },
+  {
+    "id": "1095",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "絶叫シネマ 伊吹翼"
+  },
+  {
+    "id": "1096",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "天性のシスター 天空橋朋花"
+  },
+  {
+    "id": "1097",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "楽しいイルカショー 天空橋朋花"
+  },
+  {
+    "id": "1098",
+    "idol_id": 41,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "にゃんにゃんカフェ 豊川風花"
+  },
+  {
+    "id": "1099",
+    "idol_id": 41,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ちょっぴり刺激的に 豊川風花"
+  },
+  {
+    "id": "1100",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "イノセントボディ 最上静香"
+  },
+  {
+    "id": "1101",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ささやかな温もり 最上静香"
+  },
+  {
+    "id": "1102",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "アップルスウィート 木下ひなた"
+  },
+  {
+    "id": "1103",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "眠気スッキリ！ 星井美希"
+  },
+  {
+    "id": "1104",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "便利アピール 真壁瑞希"
+  },
+  {
+    "id": "1105",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "熱血エール 高山紗代子"
+  },
+  {
+    "id": "1106",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "皆のお好みカレー 馬場このみ"
+  },
+  {
+    "id": "1107",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "トウィンクルスター 馬場このみ"
+  },
+  {
+    "id": "1108",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "思わず注目！ 三浦あずさ"
+  },
+  {
+    "id": "1109",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "極上のシルエット 三浦あずさ"
+  },
+  {
+    "id": "1110",
+    "idol_id": -1,
+    "idol_type": "Ex",
+    "rare": "SR",
+    "name": "次世代アイドル！？ 高槻かすみ"
+  },
+  {
+    "id": "1111",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ミリオンスパーク！ 春日未来"
+  },
+  {
+    "id": "1112",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "疾く参ろ！ エミリー"
+  },
+  {
+    "id": "1113",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "かわいい売り子さん 周防桃子"
+  },
+  {
+    "id": "1114",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "みんなで踊ろ！ 天空橋朋花"
+  },
+  {
+    "id": "1115",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "シャイニングゴージャスのぼり 二階堂千鶴"
+  },
+  {
+    "id": "1116",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ピュアリー白天女 水瀬伊織"
+  },
+  {
+    "id": "1117",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "気まぐれサンセット 水瀬伊織"
+  },
+  {
+    "id": "1118",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "縦横無尽ガール 永吉昴"
+  },
+  {
+    "id": "1119",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "照れ顔ビューティー 永吉昴"
+  },
+  {
+    "id": "1120",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ナイトネオンシャワー 伊吹翼"
+  },
+  {
+    "id": "1121",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プライベート・ボックス 伊吹翼"
+  },
+  {
+    "id": "1122",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ライブシアター第12幕 双海亜美"
+  },
+  {
+    "id": "1123",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ライブシアター第12幕 永吉昴"
+  },
+  {
+    "id": "1124",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ライブシアター第12幕 野々原茜"
+  },
+  {
+    "id": "1125",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ライブシアター第12幕 馬場このみ"
   }
 ];

@@ -7699,5 +7699,180 @@ var ___millimas_card_list =
     "idol_type": "Vo",
     "rare": "SR",
     "name": "イノセントボディ 最上静香"
+  },
+  {
+    "id": "1101",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ささやかな温もり 最上静香"
+  },
+  {
+    "id": "1102",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "アップルスウィート 木下ひなた"
+  },
+  {
+    "id": "1103",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "眠気スッキリ！ 星井美希"
+  },
+  {
+    "id": "1104",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "便利アピール 真壁瑞希"
+  },
+  {
+    "id": "1105",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "熱血エール 高山紗代子"
+  },
+  {
+    "id": "1106",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "皆のお好みカレー 馬場このみ"
+  },
+  {
+    "id": "1107",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "トウィンクルスター 馬場このみ"
+  },
+  {
+    "id": "1108",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "思わず注目！ 三浦あずさ"
+  },
+  {
+    "id": "1109",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "極上のシルエット 三浦あずさ"
+  },
+  {
+    "id": "1110",
+    "idol_id": -1,
+    "idol_type": "Ex",
+    "rare": "SR",
+    "name": "次世代アイドル！？ 高槻かすみ"
+  },
+  {
+    "id": "1111",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ミリオンスパーク！ 春日未来"
+  },
+  {
+    "id": "1112",
+    "idol_id": 2,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ワンフォーオール 如月千早"
+  },
+  {
+    "id": "1113",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "疾く参ろ！ エミリー"
+  },
+  {
+    "id": "1114",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "かわいい売り子さん 周防桃子"
+  },
+  {
+    "id": "1115",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "みんなで踊ろ！ 天空橋朋花"
+  },
+  {
+    "id": "1116",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "シャイニングゴージャスのぼり 二階堂千鶴"
+  },
+  {
+    "id": "1117",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ピュアリー白天女 水瀬伊織"
+  },
+  {
+    "id": "1118",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "気まぐれサンセット 水瀬伊織"
+  },
+  {
+    "id": "1119",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "縦横無尽ガール 永吉昴"
+  },
+  {
+    "id": "1120",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "照れ顔ビューティー 永吉昴"
+  },
+  {
+    "id": "1121",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ナイトネオンシャワー 伊吹翼"
+  },
+  {
+    "id": "1122",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プライベート・ボックス 伊吹翼"
+  },
+  {
+    "id": "1123",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ライブシアター第12幕 双海亜美"
+  },
+  {
+    "id": "1124",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ライブシアター第12幕 永吉昴"
+  },
+  {
+    "id": "1125",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ライブシアター第12幕 野々原茜"
   }
 ];

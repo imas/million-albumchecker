@@ -10,7 +10,7 @@ millimas-album
 1. 下記のコードをアドレスバーにコピペします(`javascript:`の部分が勝手に消えることがあるので注意)。
 
 ```
-javascript:(function(){var d=document;var s=d.createElement('script');s.src='https://raw.github.com/treby/millimas-album/master/js/app.js'; d.body.appendChild(s)})();
+javascript:(function(){var d=document;var s=d.createElement('script');s.src='https://rawgithub.com/treby/millimas-album/master/js/app.js'; d.body.appendChild(s)})();
 ```
 
 上のコードは通常のURLと同じくブックマークできるので、登録しておくと便利（かも）。

@@ -13,7 +13,7 @@ page_list = [
 def card_list_of(page_id, table_num_limit, pointer)
   card_list = []
 
-  html = Nokogiri::HTML(open("http://www50.atwiki.jp/imas_ml/pages/" + page_id.to_s + ".html"))
+  html = Nokogiri::HTML(open("http://www50.atwiki.jp/imas_ml/pages/%d.html"%[page_id]))
   wiki_body = html.css('#wikibody').first
   table_list = wiki_body.css('table')
 
@@ -65,8 +65,9 @@ end
 
 # js and json update
 json_card_list = JSON.pretty_generate(all_card_list)
+js_json_card_list = "var ___millimas_card_list =\n%s;\n"%[json_card_list]
 File.write(File.expand_path('../json/card_list.json', File.dirname(__FILE__)), json_card_list)
-File.write(File.expand_path('../js/card_list_json.js', File.dirname(__FILE__)), "var ___millimas_card_list =\n" + json_card_list + ";\n")
+File.write(File.expand_path('../js/card_list_json.js', File.dirname(__FILE__)), js_json_card_list)
 
 # readme update
 readme = File.read(File.expand_path('../README.md', File.dirname(__FILE__)))

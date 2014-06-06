@@ -7874,5 +7874,180 @@ var ___millimas_card_list =
     "idol_type": "Da",
     "rare": "SR",
     "name": "ライブシアター第12幕 野々原茜"
+  },
+  {
+    "id": "1126",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ライブシアター第12幕 馬場このみ"
+  },
+  {
+    "id": "1127",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "夢うつつマッチ少女 春日未来"
+  },
+  {
+    "id": "1128",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "夢は叶えるもの！ 春日未来"
+  },
+  {
+    "id": "1129",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "悪戯好きな妖精 大神環"
+  },
+  {
+    "id": "1130",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "魅惑のフェアリーガール 大神環"
+  },
+  {
+    "id": "1131",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "囚われのラプンツェル ロコ"
+  },
+  {
+    "id": "1132",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プリンセスオブアート ロコ"
+  },
+  {
+    "id": "1133",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "童話好きな少女 箱崎星梨花"
+  },
+  {
+    "id": "1134",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "メルヘンプリンセス 箱崎星梨花"
+  },
+  {
+    "id": "1135",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "アイドル三国志 ジュリア"
+  },
+  {
+    "id": "1136",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "アイドル三国志 真壁瑞希"
+  },
+  {
+    "id": "1137",
+    "idol_id": 41,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "アイドル三国志 豊川風花"
+  },
+  {
+    "id": "1138",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "天機を待つ臥竜 高山紗代子"
+  },
+  {
+    "id": "1139",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "豪快！冷艶鋸 高坂海美"
+  },
+  {
+    "id": "1140",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "長坂橋の大喝 高槻やよい"
+  },
+  {
+    "id": "1141",
+    "idol_id": 9,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "英明なる呉大帝 秋月律子"
+  },
+  {
+    "id": "1142",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "桃園の誓い 木下ひなた"
+  },
+  {
+    "id": "1143",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "乱世の奸雄 星井美希"
+  },
+  {
+    "id": "1144",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "愛されし仁君 木下ひなた"
+  },
+  {
+    "id": "1145",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "大いなる覇道 星井美希"
+  },
+  {
+    "id": "1146",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "美女館長の憂鬱 北沢志保"
+  },
+  {
+    "id": "1147",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "天才警視 野々原茜"
+  },
+  {
+    "id": "1148",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "お姉ちゃん助手 天海春香"
+  },
+  {
+    "id": "1149",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "ベテラン刑事 横山奈緒"
+  },
+  {
+    "id": "1150",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "双子の名探偵 双海亜美"
   }
 ];

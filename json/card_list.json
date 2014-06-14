@@ -8048,5 +8048,180 @@
     "idol_type": "Vi",
     "rare": "SR",
     "name": "双子の名探偵 双海亜美"
+  },
+  {
+    "id": "1151",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ときめきハプニング 双海亜美"
+  },
+  {
+    "id": "1152",
+    "idol_id": 8,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "アイドル怪盗参上！ 四条貴音"
+  },
+  {
+    "id": "1153",
+    "idol_id": 8,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "可愛い挑戦状 四条貴音"
+  },
+  {
+    "id": "1154",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "お約束サンオイル 百瀬莉緒"
+  },
+  {
+    "id": "1155",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "Be My Boy 百瀬莉緒"
+  },
+  {
+    "id": "1156",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "さわやか洗濯日和！ 舞浜歩"
+  },
+  {
+    "id": "1157",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "優雅な演奏会 最上静香"
+  },
+  {
+    "id": "1158",
+    "idol_id": 12,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "麦茶でイッキ！ 双海真美"
+  },
+  {
+    "id": "1159",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "クッキングお姉さん 三浦あずさ"
+  },
+  {
+    "id": "1160",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "あわぶくオフロそうじ 北上麗花"
+  },
+  {
+    "id": "1161",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "熟睡ガール 北上麗花"
+  },
+  {
+    "id": "1162",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "楽しいケーキパーティー 周防桃子"
+  },
+  {
+    "id": "1163",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "お願いパジャマ 周防桃子"
+  },
+  {
+    "id": "1164",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "スタイリッシュコート 北沢志保"
+  },
+  {
+    "id": "1165",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "カラフル雨粒ダンス 松田亜利沙"
+  },
+  {
+    "id": "1166",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "サプライズ・レイン 二階堂千鶴"
+  },
+  {
+    "id": "1167",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "エレガントシャワー 二階堂千鶴"
+  },
+  {
+    "id": "1168",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ドキドキ相合傘 高山紗代子"
+  },
+  {
+    "id": "1169",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "セクシースルーウェア 高山紗代子"
+  },
+  {
+    "id": "1170",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "笑顔のお出迎え 高槻やよい"
+  },
+  {
+    "id": "1171",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "スプライトイルミネーション 高槻やよい"
+  },
+  {
+    "id": "1172",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ミリオンライブ！ 伊吹翼"
+  },
+  {
+    "id": "1173",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "ビビッとスタディ 望月杏奈"
+  },
+  {
+    "id": "1174",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "エスケープフロムリアル 望月杏奈"
+  },
+  {
+    "id": "1175",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "Happy Darling 望月杏奈"
   }
 ]

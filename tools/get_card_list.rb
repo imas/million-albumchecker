@@ -7,7 +7,7 @@ page_list = [
   { page_id: 205, table_num: 10 },
   { page_id: 204, table_num: 10 },
   { page_id: 203, table_num: 10 },
-  { page_id: 208, table_num: 6 },
+  { page_id: 208, table_num: 7 },
 ]
 
 def card_list_of(page_id, table_num_limit, pointer)

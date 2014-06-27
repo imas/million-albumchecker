@@ -1,11 +1,11 @@
 (function() {
 var CARD_COUNT_PER_PAGE = 25;
 
-var skip_page_list = new Array();
-var completed_page_list = new Array();
+var skip_page_list = [];
+var completed_page_list = [];
 
 var card_list;
-var unknown_card_list = new Array();
+var unknown_card_list = [];
 
 var page_limit = 0;
 

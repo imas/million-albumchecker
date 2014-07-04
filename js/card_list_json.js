@@ -8224,5 +8224,180 @@ var ___millimas_card_list =
     "idol_type": "Vo",
     "rare": "HR",
     "name": "Happy Darling 望月杏奈"
+  },
+  {
+    "id": "1176",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "マッスルポーズ！ 福田のり子"
+  },
+  {
+    "id": "1177",
+    "idol_id": 41,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "悩ましダンス 豊川風花"
+  },
+  {
+    "id": "1178",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "グラマラスビースト 水瀬伊織"
+  },
+  {
+    "id": "1179",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "二人の祝杯 水瀬伊織"
+  },
+  {
+    "id": "1180",
+    "idol_id": 2,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "サッカーフェス2014 如月千早"
+  },
+  {
+    "id": "1181",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "サッカーフェス2014 馬場このみ"
+  },
+  {
+    "id": "1182",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "サッカーフェス2014 徳川まつり"
+  },
+  {
+    "id": "1183",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "伝心キラーパス 所恵美"
+  },
+  {
+    "id": "1184",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "ミラクルオーバーヘッド！ 舞浜歩"
+  },
+  {
+    "id": "1185",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "決断の時！ 天空橋朋花"
+  },
+  {
+    "id": "1186",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プリティーガーディアン 伊吹翼"
+  },
+  {
+    "id": "1187",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "祝勝カーニバルライブ 伊吹翼"
+  },
+  {
+    "id": "1188",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "アイドルフォース 春日未来"
+  },
+  {
+    "id": "1189",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "アイドルフォース 野々原茜"
+  },
+  {
+    "id": "1190",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "アイドルフォース 萩原雪歩"
+  },
+  {
+    "id": "1191",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "無邪気な狂戦士 星井美希"
+  },
+  {
+    "id": "1192",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "降下90秒前 最上静香"
+  },
+  {
+    "id": "1193",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "冷血将軍 横山奈緒"
+  },
+  {
+    "id": "1194",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "制圧射撃。 真壁瑞希"
+  },
+  {
+    "id": "1195",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ブレイブソルジャー 真壁瑞希"
+  },
+  {
+    "id": "1196",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "女の子の憧れ ジュリア"
+  },
+  {
+    "id": "1197",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "てんこ盛りファーストバイト 佐竹美奈子"
+  },
+  {
+    "id": "1198",
+    "idol_id": 45,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "ガチガチウェディングドレス 篠宮可憐"
+  },
+  {
+    "id": "1199",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ウェディングエンジェル 矢吹可奈"
+  },
+  {
+    "id": "1200",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "無垢な恥じらい 矢吹可奈"
   }
 ];

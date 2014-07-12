@@ -8398,5 +8398,180 @@
     "idol_type": "Vo",
     "rare": "SR",
     "name": "無垢な恥じらい 矢吹可奈"
+  },
+  {
+    "id": "1201",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "理想の花嫁衣装！ エミリー"
+  },
+  {
+    "id": "1202",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "照れ笑いの撫子 エミリー"
+  },
+  {
+    "id": "1203",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ぷるぷるプルオーバー ロコ"
+  },
+  {
+    "id": "1204",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ムーンライトドール ロコ"
+  },
+  {
+    "id": "1205",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "オオカミにも衣装？ 大神環"
+  },
+  {
+    "id": "1206",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "大人ファッションでキメッ！？ 中谷育"
+  },
+  {
+    "id": "1207",
+    "idol_id": 8,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "カジュアルプリンセス 四条貴音"
+  },
+  {
+    "id": "1208",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "イメチェン！清楚モード 島原エレナ"
+  },
+  {
+    "id": "1209",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "柔らかな眼差し 島原エレナ"
+  },
+  {
+    "id": "1210",
+    "idol_id": 17,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "イメチェン！大胆モード 田中琴葉"
+  },
+  {
+    "id": "1211",
+    "idol_id": 17,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "魅惑のささやき 田中琴葉"
+  },
+  {
+    "id": "1212",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "ダイナマイトなサーブ 百瀬莉緒"
+  },
+  {
+    "id": "1213",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "冷水乱れ撃ち！ 双海亜美"
+  },
+  {
+    "id": "1214",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "トロピカル急接近サンデー 高坂海美"
+  },
+  {
+    "id": "1215",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ビッグウェーブライダー 高坂海美"
+  },
+  {
+    "id": "1216",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "スプラッシュシアター開演！ 七尾百合子"
+  },
+  {
+    "id": "1217",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "流れる読書スペース 七尾百合子"
+  },
+  {
+    "id": "1218",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ワクワク回遊娘 望月杏奈"
+  },
+  {
+    "id": "1219",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "スプラッシュドリーム 望月杏奈"
+  },
+  {
+    "id": "1220",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "謎のケミカル色スープ ジュリア"
+  },
+  {
+    "id": "1221",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "基本が大事！ ジュリア"
+  },
+  {
+    "id": "1222",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "新米ハンターの受難 永吉昴"
+  },
+  {
+    "id": "1223",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "ベテランハンター 永吉昴"
+  },
+  {
+    "id": "1224",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "悩める仕立屋さん 所恵美"
+  },
+  {
+    "id": "1225",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ナチュラルアレンジ！ 所恵美"
   }
 ]

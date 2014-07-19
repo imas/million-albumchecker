@@ -19,7 +19,7 @@ def card_list_of(page_id, table_num_limit, pointer)
 
   table_list.each_with_index do |table, i|
     if i < table_num_limit then
-      tr_list = table.children
+      tr_list = table.children.css('tr')
       tr_list.each_with_index do |tr_elm, j|
         if (j % 6) != 0 then
           td_list = tr_elm.css('td')

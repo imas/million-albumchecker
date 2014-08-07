@@ -8574,5 +8574,180 @@ var ___millimas_card_list =
     "idol_type": "Vi",
     "rare": "SR",
     "name": "ナチュラルアレンジ！ 所恵美"
+  },
+  {
+    "id": "1226",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "策士、罠に溺れる 双海亜美"
+  },
+  {
+    "id": "1227",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "完成！ヒミツ基地ハウス 双海亜美"
+  },
+  {
+    "id": "1228",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "プラチナスターライブ 三浦あずさ"
+  },
+  {
+    "id": "1229",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "プラチナスターライブ 菊地真"
+  },
+  {
+    "id": "1230",
+    "idol_id": 45,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "プラチナスターライブ 篠宮可憐"
+  },
+  {
+    "id": "1231",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "遥か彼方へ 馬場このみ"
+  },
+  {
+    "id": "1232",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "響き渡る歌声 矢吹可奈"
+  },
+  {
+    "id": "1233",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "一番キラキラなステージ 星井美希"
+  },
+  {
+    "id": "1234",
+    "idol_id": 13,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "行ってきます！ 我那覇響"
+  },
+  {
+    "id": "1235",
+    "idol_id": 13,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "合言葉はスタートアップ！ 我那覇響"
+  },
+  {
+    "id": "1236",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ここから始まる！ 春日未来"
+  },
+  {
+    "id": "1237",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "Growing Storm 春日未来"
+  },
+  {
+    "id": "1238",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "強がりテントウムシ 周防桃子"
+  },
+  {
+    "id": "1239",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "慌ただしい女王バチ 水瀬伊織"
+  },
+  {
+    "id": "1240",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "獲物発見！ 島原エレナ"
+  },
+  {
+    "id": "1241",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プリンセスワニさん 徳川まつり"
+  },
+  {
+    "id": "1242",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "セクシークロコダイル 徳川まつり"
+  },
+  {
+    "id": "1243",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "豊作ダンス 木下ひなた"
+  },
+  {
+    "id": "1244",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "純白ドレスアップ 木下ひなた"
+  },
+  {
+    "id": "1245",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "伝説のはじまり 天海春香"
+  },
+  {
+    "id": "1246",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "伝説を継ぐ者へ 天海春香"
+  },
+  {
+    "id": "1247",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "スペシャル焼きアナゴ 天空橋朋花"
+  },
+  {
+    "id": "1248",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "着火マスター 北上麗花"
+  },
+  {
+    "id": "1249",
+    "idol_id": 41,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "汗かきバーベキュー 豊川風花"
+  },
+  {
+    "id": "1250",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "お野菜おすそ分け 野々原茜"
   }
 ];

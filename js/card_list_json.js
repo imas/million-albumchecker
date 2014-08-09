@@ -8749,5 +8749,530 @@ var ___millimas_card_list =
     "idol_type": "Da",
     "rare": "SR",
     "name": "お野菜おすそ分け 野々原茜"
+  },
+  {
+    "id": "1251",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "真夏の川遊び 野々原茜"
+  },
+  {
+    "id": "1252",
+    "idol_id": 9,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "世話やきBBQ奉行 秋月律子"
+  },
+  {
+    "id": "1253",
+    "idol_id": 9,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "水着は支度済み！ 秋月律子"
+  },
+  {
+    "id": "1254",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 春日未来"
+  },
+  {
+    "id": "1255",
+    "idol_id": 17,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 田中琴葉"
+  },
+  {
+    "id": "1256",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 最上静香"
+  },
+  {
+    "id": "1257",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 箱崎星梨花"
+  },
+  {
+    "id": "1258",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 望月杏奈"
+  },
+  {
+    "id": "1259",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 高山紗代子"
+  },
+  {
+    "id": "1260",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 木下ひなた"
+  },
+  {
+    "id": "1261",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ ジュリア"
+  },
+  {
+    "id": "1262",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 矢吹可奈"
+  },
+  {
+    "id": "1263",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 松田亜利沙"
+  },
+  {
+    "id": "1264",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 天空橋朋花"
+  },
+  {
+    "id": "1265",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 島原エレナ"
+  },
+  {
+    "id": "1266",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 野々原茜"
+  },
+  {
+    "id": "1267",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 佐竹美奈子"
+  },
+  {
+    "id": "1268",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ エミリー"
+  },
+  {
+    "id": "1269",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 高坂海美"
+  },
+  {
+    "id": "1270",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 舞浜歩"
+  },
+  {
+    "id": "1271",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 馬場このみ"
+  },
+  {
+    "id": "1272",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 横山奈緒"
+  },
+  {
+    "id": "1273",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 北上麗花"
+  },
+  {
+    "id": "1274",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 大神環"
+  },
+  {
+    "id": "1275",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 福田のり子"
+  },
+  {
+    "id": "1276",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 百瀬莉緒"
+  },
+  {
+    "id": "1277",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 真壁瑞希"
+  },
+  {
+    "id": "1278",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 永吉昴"
+  },
+  {
+    "id": "1279",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 伊吹翼"
+  },
+  {
+    "id": "1280",
+    "idol_id": 41,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 豊川風花"
+  },
+  {
+    "id": "1281",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 徳川まつり"
+  },
+  {
+    "id": "1282",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 七尾百合子"
+  },
+  {
+    "id": "1283",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 所恵美"
+  },
+  {
+    "id": "1284",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ ロコ"
+  },
+  {
+    "id": "1285",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 中谷育"
+  },
+  {
+    "id": "1286",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 二階堂千鶴"
+  },
+  {
+    "id": "1287",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 北沢志保"
+  },
+  {
+    "id": "1288",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 宮尾美也"
+  },
+  {
+    "id": "1289",
+    "idol_id": 45,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 篠宮可憐"
+  },
+  {
+    "id": "1290",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プロローグ・ルージュ 周防桃子"
+  },
+  {
+    "id": "1291",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 春日未来"
+  },
+  {
+    "id": "1292",
+    "idol_id": 17,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 田中琴葉"
+  },
+  {
+    "id": "1293",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 最上静香"
+  },
+  {
+    "id": "1294",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 箱崎星梨花"
+  },
+  {
+    "id": "1295",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 望月杏奈"
+  },
+  {
+    "id": "1296",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 高山紗代子"
+  },
+  {
+    "id": "1297",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 木下ひなた"
+  },
+  {
+    "id": "1298",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE ジュリア"
+  },
+  {
+    "id": "1299",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 矢吹可奈"
+  },
+  {
+    "id": "1300",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 松田亜利沙"
+  },
+  {
+    "id": "1301",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 天空橋朋花"
+  },
+  {
+    "id": "1302",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 島原エレナ"
+  },
+  {
+    "id": "1303",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 野々原茜"
+  },
+  {
+    "id": "1304",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 佐竹美奈子"
+  },
+  {
+    "id": "1305",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE エミリー"
+  },
+  {
+    "id": "1306",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 高坂海美"
+  },
+  {
+    "id": "1307",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 舞浜歩"
+  },
+  {
+    "id": "1308",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 馬場このみ"
+  },
+  {
+    "id": "1309",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 横山奈緒"
+  },
+  {
+    "id": "1310",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 北上麗花"
+  },
+  {
+    "id": "1311",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 大神環"
+  },
+  {
+    "id": "1312",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 福田のり子"
+  },
+  {
+    "id": "1313",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 百瀬莉緒"
+  },
+  {
+    "id": "1314",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 真壁瑞希"
+  },
+  {
+    "id": "1315",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 永吉昴"
+  },
+  {
+    "id": "1316",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 伊吹翼"
+  },
+  {
+    "id": "1317",
+    "idol_id": 41,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 豊川風花"
+  },
+  {
+    "id": "1318",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 徳川まつり"
+  },
+  {
+    "id": "1319",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 七尾百合子"
+  },
+  {
+    "id": "1320",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 所恵美"
+  },
+  {
+    "id": "1321",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE ロコ"
+  },
+  {
+    "id": "1322",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 中谷育"
+  },
+  {
+    "id": "1323",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 二階堂千鶴"
+  },
+  {
+    "id": "1324",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 北沢志保"
+  },
+  {
+    "id": "1325",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 宮尾美也"
   }
 ];

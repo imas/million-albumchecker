@@ -1,20 +1,11 @@
+require 'yaml'
 require 'json'
 require 'nokogiri'
 require 'open-uri'
 
-page_list = [
-  { page_id: 206, table_num: 10 },
-  { page_id: 205, table_num: 10 },
-  { page_id: 204, table_num: 10 },
-  { page_id: 203, table_num: 10 },
-  { page_id: 208, table_num: 10 },
-  { page_id: 210, table_num: 3 },
-]
-
-def card_list_of(page_id, table_num_limit, pointer)
+def card_list_of(base_uri, page_id, table_num_limit, pointer)
   card_list = []
-
-  html = Nokogiri::HTML(open("http://www50.atwiki.jp/imas_ml/pages/%d.html"%[page_id]))
+  html = Nokogiri::HTML(open("%s/%d.html"%[base_uri, page_id]))
   wiki_body = html.css('#wikibody').first
   table_list = wiki_body.css('table')
 
@@ -57,10 +48,15 @@ def idol_id(card_name)
   idol_id.to_i
 end
 
+# main
+config = YAML.load(File.read(File.expand_path('config.yml', File.dirname(__FILE__))))
+page_list = config[:page_list]
+base_uri = config[:base_uri]
 all_card_list = []
 pointer = 1
+
 page_list.each do |page_info|
-  all_card_list.concat(card_list_of(page_info[:page_id], page_info[:table_num], pointer))
+  all_card_list.concat(card_list_of(base_uri, page_info[:page_id], page_info[:table_num], pointer))
   pointer = all_card_list.length + 1
 end
 

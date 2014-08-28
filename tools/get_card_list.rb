@@ -70,3 +70,8 @@ File.write(File.expand_path('../js/card_list_json.js', File.dirname(__FILE__)), 
 readme = File.read(File.expand_path('../README.md', File.dirname(__FILE__)))
 readme.gsub!(/『.+?』/, "『" + all_card_list.last['name'] + "』")
 File.write(File.expand_path('../README.md', File.dirname(__FILE__)), readme)
+
+# auto commit
+base_dir = File.expand_path('../', File.dirname(__FILE__))
+ret = `#{base_dir}/tools/commit_update.sh #{base_dir} "#{all_card_list.last['name']}"`
+puts ret

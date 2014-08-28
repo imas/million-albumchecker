@@ -2,7 +2,7 @@ millimas-album
 ======
 [アイドルマスター ミリオンライブ！](http://www.bandainamcogames.co.jp/cs/list/idolmaster/million_live/)用のアルバム達成状況を確認するためのbookmarkletです。
 
-現在、『HAPPY PERFORMANCE 宮尾美也』まで対応しています。
+現在、『願いをこめて 徳川まつり』まで対応しています。
 
 ## 使い方
 1. [GREE](http://gree.jp/?mode=login)にログイン後、[アプリのページ](http://imas.gree-apps.net/app/index.php)に移動します。

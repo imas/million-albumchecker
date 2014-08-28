@@ -9274,5 +9274,180 @@ var ___millimas_card_list =
     "idol_type": "Vi",
     "rare": "SR",
     "name": "HAPPY PERFORMANCE 宮尾美也"
+  },
+  {
+    "id": "1326",
+    "idol_id": 45,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 篠宮可憐"
+  },
+  {
+    "id": "1327",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "HAPPY PERFORMANCE 周防桃子"
+  },
+  {
+    "id": "1328",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "爽快ミストシャワー 箱崎星梨花"
+  },
+  {
+    "id": "1329",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "催し名入り扇子！ エミリー"
+  },
+  {
+    "id": "1330",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ウェスタンでキメッ！ 松田亜利沙"
+  },
+  {
+    "id": "1331",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ゆったりマッサージ 松田亜利沙"
+  },
+  {
+    "id": "1332",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "静と動 舞浜歩"
+  },
+  {
+    "id": "1333",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "夕焼けキャニオン 舞浜歩"
+  },
+  {
+    "id": "1334",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ハードロックナイト！ 北沢志保"
+  },
+  {
+    "id": "1335",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "星空スマイル 北沢志保"
+  },
+  {
+    "id": "1336",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "茜ちゃんショップ開店！ 野々原茜"
+  },
+  {
+    "id": "1337",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "茜ちゃんSPプリンサンデー 野々原茜"
+  },
+  {
+    "id": "1338",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "甘えん坊な女の子 野々原茜"
+  },
+  {
+    "id": "1339",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "プリンセスターン 真壁瑞希"
+  },
+  {
+    "id": "1340",
+    "idol_id": 8,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "麗しきエルディスト 四条貴音"
+  },
+  {
+    "id": "1341",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "可憐なギタープリンセス ジュリア"
+  },
+  {
+    "id": "1342",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "素顔のプリンセス ジュリア"
+  },
+  {
+    "id": "1343",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "アイドル夏祭り2 矢吹可奈"
+  },
+  {
+    "id": "1344",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "アイドル夏祭り2 佐竹美奈子"
+  },
+  {
+    "id": "1345",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "アイドル夏祭り2 星井美希"
+  },
+  {
+    "id": "1346",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "お祭りテンション！ 望月杏奈"
+  },
+  {
+    "id": "1347",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "ロコランタン ロコ"
+  },
+  {
+    "id": "1348",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "海っ子お祭りライブ！ 馬場このみ"
+  },
+  {
+    "id": "1349",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "船上の宴 徳川まつり"
+  },
+  {
+    "id": "1350",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "願いをこめて 徳川まつり"
   }
 ];

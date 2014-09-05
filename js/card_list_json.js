@@ -1524,7 +1524,7 @@ var ___millimas_card_list =
     "idol_id": 23,
     "idol_type": "Da",
     "rare": "HR",
-    "name": "ロケットスタートジャンプ！ 野々原茜"
+    "name": "ロケットスケートジャンプ！ 野々原茜"
   },
   {
     "id": "219",
@@ -9449,5 +9449,180 @@ var ___millimas_card_list =
     "idol_type": "Vi",
     "rare": "SR",
     "name": "願いをこめて 徳川まつり"
+  },
+  {
+    "id": "1351",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "肝だめし病棟 最上静香"
+  },
+  {
+    "id": "1352",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "肝だめし病棟 永吉昴"
+  },
+  {
+    "id": "1353",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "肝だめし病棟 二階堂千鶴"
+  },
+  {
+    "id": "1354",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "恐怖！お注射ナース 高坂海美"
+  },
+  {
+    "id": "1355",
+    "idol_id": 17,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "恐怖！お薬ナース 田中琴葉"
+  },
+  {
+    "id": "1356",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "セクシースタンバイ 伊吹翼"
+  },
+  {
+    "id": "1357",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "マッドドクター 北上麗花"
+  },
+  {
+    "id": "1358",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ナイショの診察タイム 北上麗花"
+  },
+  {
+    "id": "1359",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "ズブ濡れDE早着替え！ 所恵美"
+  },
+  {
+    "id": "1360",
+    "idol_id": 2,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "白熱！ヒップレスリング 如月千早"
+  },
+  {
+    "id": "1361",
+    "idol_id": 13,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "素潜りチャンピオン 我那覇響"
+  },
+  {
+    "id": "1362",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "悩殺？水着ライブ 宮尾美也"
+  },
+  {
+    "id": "1363",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "みやみやカフェ 宮尾美也"
+  },
+  {
+    "id": "1364",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "隣に… 三浦あずさ"
+  },
+  {
+    "id": "1365",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ぷかぷかフロート 三浦あずさ"
+  },
+  {
+    "id": "1366",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "猿…まわされ？ 大神環"
+  },
+  {
+    "id": "1367",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "くったりのぼせ顔 大神環"
+  },
+  {
+    "id": "1368",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "セクシーテクニック 百瀬莉緒"
+  },
+  {
+    "id": "1369",
+    "idol_id": 12,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "かき氷早食いバトル！ 双海真美"
+  },
+  {
+    "id": "1370",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "とれたて！お野菜スイーツ 木下ひなた"
+  },
+  {
+    "id": "1371",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "突き出せところてん！ 福田のり子"
+  },
+  {
+    "id": "1372",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "しっとり夕涼み 福田のり子"
+  },
+  {
+    "id": "1373",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "夏の縁側 萩原雪歩"
+  },
+  {
+    "id": "1374",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "向日葵さんぽ道 萩原雪歩"
+  },
+  {
+    "id": "1375",
+    "idol_id": 13,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "レジェンドデイズ 我那覇響"
   }
 ];

@@ -71,7 +71,13 @@ readme = File.read(File.expand_path('../README.md', File.dirname(__FILE__)))
 readme.sub!(/『.+?』/, "『" + all_card_list.last['name'] + "』")
 File.write(File.expand_path('../README.md', File.dirname(__FILE__)), readme)
 
+exit if `git diff`.empty?
+puts `git diff`
+puts 'commit? (y/N):'
+exit unless STDIN.gets.chomp == 'y'
+
 # auto commit
 base_dir = File.expand_path('../', File.dirname(__FILE__))
-ret = `#{base_dir}/tools/commit_update.sh #{base_dir} "#{all_card_list.last['name']}"`
-puts ret
+puts `#{base_dir}/tools/commit_update.sh #{base_dir} "#{all_card_list.last['name']}"`
+
+# vim: sts=2 sw=2 ts=2

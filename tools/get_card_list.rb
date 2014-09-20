@@ -10,23 +10,24 @@ def card_list_of(base_uri, page_id, table_num_limit, pointer)
   table_list = wiki_body.css('table')
 
   table_list.each_with_index do |table, i|
-    if i < table_num_limit then
-      tr_list = table.children.css('tr')
-      tr_list.each_with_index do |tr_elm, j|
-        if (j % 6) != 0 then
-          td_list = tr_elm.css('td')
+    next unless i < table_num_limit
 
-          card = {
-            "id" => pointer.to_s,
-            "idol_id" => idol_id(td_list[2].inner_text),
-            "idol_type" => td_list[1].inner_text,
-            "rare" => td_list[0].inner_text,
-            "name" => td_list[2].inner_text,
-          }
-          card_list.push(card)
-          pointer = pointer + 1
-        end
-      end
+    tr_list = table.children.css('tr')
+    tr_list.each_with_index do |tr_elm, j|
+      # wikiでは、6行ごとに空の行が入っているため
+      # (見やすさのためと思われる)
+      next unless (j % 6) != 0
+
+      td_list = tr_elm.css('td')
+      card = {
+        "id" => pointer.to_s,
+        "idol_id" => idol_id(td_list[2].inner_text),
+        "idol_type" => td_list[1].inner_text,
+        "rare" => td_list[0].inner_text,
+        "name" => td_list[2].inner_text,
+      }
+      card_list.push(card)
+      pointer = pointer + 1
     end
   end
 

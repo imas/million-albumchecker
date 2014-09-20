@@ -68,7 +68,7 @@ File.write(File.expand_path('../js/card_list_json.js', File.dirname(__FILE__)), 
 
 # readme update
 readme = File.read(File.expand_path('../README.md', File.dirname(__FILE__)))
-readme.gsub!(/『.+?』/, "『" + all_card_list.last['name'] + "』")
+readme.sub!(/『.+?』/, "『" + all_card_list.last['name'] + "』")
 File.write(File.expand_path('../README.md', File.dirname(__FILE__)), readme)
 
 # auto commit

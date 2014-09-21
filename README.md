@@ -29,3 +29,11 @@ javascript:(function(){var d=document;var s=d.createElement('script');s.src='htt
   - カードデータはこちらから拝借しております。
 - [いままでいくらAmazonで買い物したか合計するブックマークレット書いた - モロ屋](http://moroya.hatenablog.jp/entry/2013/06/03/225935)
   - bookmarkletの仕組みを非常に参考にさせていただきました。
+
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request

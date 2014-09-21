@@ -161,7 +161,7 @@ var d=document;
 var jq=d.createElement('script');
 jq.src='//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js';
 var cl=d.createElement('script');
-cl.src='//rawgithub.com/treby/millimas-album/master/js/card_list_json.js';
+cl.src='//rawgithub.com/millimas/millimas-album/master/js/card_list_json.js';
 jq.onload=function() {
     cl.onload=init;
     d.body.appendChild(cl);

@@ -1073,14 +1073,14 @@ var ___millimas_card_list =
   },
   {
     "id": "154",
-    "idol_id": -1,
+    "idol_id": 51,
     "idol_type": "Ex",
     "rare": "R",
     "name": "レベルアップ 音無小鳥"
   },
   {
     "id": "155",
-    "idol_id": -1,
+    "idol_id": 51,
     "idol_type": "Ex",
     "rare": "R",
     "name": "スキルアップ 音無小鳥"
@@ -2172,7 +2172,7 @@ var ___millimas_card_list =
   },
   {
     "id": "311",
-    "idol_id": -1,
+    "idol_id": 51,
     "idol_type": "Ex",
     "rare": "HR",
     "name": "スキルアップ ステージの進行 音無小鳥"
@@ -2445,7 +2445,7 @@ var ___millimas_card_list =
   },
   {
     "id": "350",
-    "idol_id": -1,
+    "idol_id": 51,
     "idol_type": "Ex",
     "rare": "HN",
     "name": "レベルアップ 事務員 音無小鳥"
@@ -7765,7 +7765,7 @@ var ___millimas_card_list =
   },
   {
     "id": "1110",
-    "idol_id": -1,
+    "idol_id": 5,
     "idol_type": "Ex",
     "rare": "SR",
     "name": "次世代アイドル！？ 高槻かすみ"

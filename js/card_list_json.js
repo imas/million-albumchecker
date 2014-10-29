@@ -9974,5 +9974,180 @@ var ___millimas_card_list =
     "idol_type": "Vi",
     "rare": "SR",
     "name": "臆病ヴァンパイア 篠宮可憐"
+  },
+  {
+    "id": "1426",
+    "idol_id": 45,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ゴースト・バラード 篠宮可憐"
+  },
+  {
+    "id": "1427",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "レインボーマジック 天空橋朋花"
+  },
+  {
+    "id": "1428",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "スイートシャワー 天空橋朋花"
+  },
+  {
+    "id": "1429",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "ギリギリ楽屋イン！ 所恵美"
+  },
+  {
+    "id": "1430",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "ふんわりスタイル 所恵美"
+  },
+  {
+    "id": "1431",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "ラグジュアルステージ 所恵美"
+  },
+  {
+    "id": "1432",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "学園ミスコンサバイバル ジュリア"
+  },
+  {
+    "id": "1433",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "学園ミスコンサバイバル 馬場このみ"
+  },
+  {
+    "id": "1434",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "学園ミスコンサバイバル 七尾百合子"
+  },
+  {
+    "id": "1435",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "必殺水着エプロンメイド！ 野々原茜"
+  },
+  {
+    "id": "1436",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "不動の優勝候補 星井美希"
+  },
+  {
+    "id": "1437",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "丹精こめた輝き エミリー"
+  },
+  {
+    "id": "1438",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "文化祭ロックフィーバー！ 宮尾美也"
+  },
+  {
+    "id": "1439",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "涙輝く表彰台 宮尾美也"
+  },
+  {
+    "id": "1440",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "アイドルファイト 天海春香"
+  },
+  {
+    "id": "1441",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "アイドルファイト 島原エレナ"
+  },
+  {
+    "id": "1442",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "アイドルファイト 北沢志保"
+  },
+  {
+    "id": "1443",
+    "idol_id": 41,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "鉄拳クリスティ衣装 豊川風花"
+  },
+  {
+    "id": "1444",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "鉄拳リリ衣装 水瀬伊織"
+  },
+  {
+    "id": "1445",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "デビル降臨！ 徳川まつり"
+  },
+  {
+    "id": "1446",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "鉄拳ポール衣装 福田のり子"
+  },
+  {
+    "id": "1447",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "トライアンフルステージ 福田のり子"
+  },
+  {
+    "id": "1448",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "溢れる光と笑顔 春日未来"
+  },
+  {
+    "id": "1449",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ヒーリング・ライト 萩原雪歩"
+  },
+  {
+    "id": "1450",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "バーチャル・スタンス 横山奈緒"
   }
 ];

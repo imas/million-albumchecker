@@ -10149,5 +10149,180 @@ var ___millimas_card_list =
     "idol_type": "Da",
     "rare": "SR",
     "name": "バーチャル・スタンス 横山奈緒"
+  },
+  {
+    "id": "1451",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "リアルな高鳴り 横山奈緒"
+  },
+  {
+    "id": "1452",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "アイドル警察 望月杏奈"
+  },
+  {
+    "id": "1453",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "アイドル警察 北上麗花"
+  },
+  {
+    "id": "1454",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "アイドル警察 二階堂千鶴"
+  },
+  {
+    "id": "1455",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "エリート警視 最上静香"
+  },
+  {
+    "id": "1456",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "サイバー課の問題児 真壁瑞希"
+  },
+  {
+    "id": "1457",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "おっとり巡査部長 三浦あずさ"
+  },
+  {
+    "id": "1458",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "チェイス＆ファイア 周防桃子"
+  },
+  {
+    "id": "1459",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プリティーお仕置きタイム 周防桃子"
+  },
+  {
+    "id": "1460",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "パワフル大回転！ 双海亜美"
+  },
+  {
+    "id": "1461",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "急接近スペースライド 舞浜歩"
+  },
+  {
+    "id": "1462",
+    "idol_id": 2,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "目移りアトラクション 如月千早"
+  },
+  {
+    "id": "1463",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ドキドキ水上デート 永吉昴"
+  },
+  {
+    "id": "1464",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "エレクトロフェアリー 永吉昴"
+  },
+  {
+    "id": "1465",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "夢のテーマパーク？ 星井美希"
+  },
+  {
+    "id": "1466",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "スターライトプリンセス 星井美希"
+  },
+  {
+    "id": "1467",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "粘る紗代子に福来る！ 高山紗代子"
+  },
+  {
+    "id": "1468",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "しっとり振袖ライブ 高山紗代子"
+  },
+  {
+    "id": "1469",
+    "idol_id": 13,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "みんなで栗拾い 我那覇響"
+  },
+  {
+    "id": "1470",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "秋晴れ読書タイム 箱崎星梨花"
+  },
+  {
+    "id": "1471",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "ブドウに夢中！ 中谷育"
+  },
+  {
+    "id": "1472",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ドローイングライブ 矢吹可奈"
+  },
+  {
+    "id": "1473",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "画家とモデルと 矢吹可奈"
+  },
+  {
+    "id": "1474",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "スカーレットステージ 百瀬莉緒"
+  },
+  {
+    "id": "1475",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "紅葉デート 百瀬莉緒"
   }
 ];

@@ -10323,5 +10323,180 @@
     "idol_type": "Da",
     "rare": "SR",
     "name": "紅葉デート 百瀬莉緒"
+  },
+  {
+    "id": "1476",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "もっともっと高く！ 高山紗代子"
+  },
+  {
+    "id": "1477",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "さわやかお姉さん 菊地真"
+  },
+  {
+    "id": "1478",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ロコティック鬼ごっこ ロコ"
+  },
+  {
+    "id": "1479",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "てづくりのすてーじ ロコ"
+  },
+  {
+    "id": "1480",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ままごとアイドル 松田亜利沙"
+  },
+  {
+    "id": "1481",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "カラフルお遊戯ライブ 松田亜利沙"
+  },
+  {
+    "id": "1482",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "はい、召し上がれ！ 大神環"
+  },
+  {
+    "id": "1483",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "きらきら一番星ステージ 大神環"
+  },
+  {
+    "id": "1484",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "リコッタ 天海春香"
+  },
+  {
+    "id": "1485",
+    "idol_id": 17,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "灼熱少女 田中琴葉"
+  },
+  {
+    "id": "1486",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "アジアンタイムトリップ 天空橋朋花"
+  },
+  {
+    "id": "1487",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "スパークタワーライブ 天空橋朋花"
+  },
+  {
+    "id": "1488",
+    "idol_id": 12,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "びっくり！空中プール 双海真美"
+  },
+  {
+    "id": "1489",
+    "idol_id": 12,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "わんぱくマミライオン 双海真美"
+  },
+  {
+    "id": "1490",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ゆったり夢心地 福田のり子"
+  },
+  {
+    "id": "1491",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "プリンセス・ヴェール 福田のり子"
+  },
+  {
+    "id": "1492",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "清楚な一輪花 所恵美"
+  },
+  {
+    "id": "1493",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "アプサラの夜 所恵美"
+  },
+  {
+    "id": "1494",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "プラチナスターライブ 箱崎星梨花"
+  },
+  {
+    "id": "1495",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "プラチナスターライブ 佐竹美奈子"
+  },
+  {
+    "id": "1496",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "プラチナスターライブ 中谷育"
+  },
+  {
+    "id": "1497",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "炎の導き手 ジュリア"
+  },
+  {
+    "id": "1498",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "火守の娘 北上麗花"
+  },
+  {
+    "id": "1499",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "イグニッションダンス 北沢志保"
+  },
+  {
+    "id": "1500",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ワクワクの種火 天海春香"
   }
 ]

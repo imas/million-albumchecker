@@ -10499,5 +10499,180 @@ var ___millimas_card_list =
     "idol_type": "Vo",
     "rare": "SR",
     "name": "ワクワクの種火 天海春香"
+  },
+  {
+    "id": "1501",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "H,S FRIENDSHIP 天海春香"
+  },
+  {
+    "id": "1502",
+    "idol_id": 17,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "たぎる情熱 田中琴葉"
+  },
+  {
+    "id": "1503",
+    "idol_id": 17,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ジレるハートに火をつけて 田中琴葉"
+  },
+  {
+    "id": "1504",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "ぐらぐら危機一髪！ 高槻やよい"
+  },
+  {
+    "id": "1505",
+    "idol_id": 9,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "百発百中！ 秋月律子"
+  },
+  {
+    "id": "1506",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "極めろ！少林拳 野々原茜"
+  },
+  {
+    "id": "1507",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "貴族のたしなみ 二階堂千鶴"
+  },
+  {
+    "id": "1508",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ナチュラルスマイル 二階堂千鶴"
+  },
+  {
+    "id": "1509",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "強気にカットイン！ 水瀬伊織"
+  },
+  {
+    "id": "1510",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "心地よい疲労感 水瀬伊織"
+  },
+  {
+    "id": "1511",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "DIVE TO YOU! 島原エレナ"
+  },
+  {
+    "id": "1512",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "照れ隠しの瞳 島原エレナ"
+  },
+  {
+    "id": "1513",
+    "idol_id": 41,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "無傷の剣聖 豊川風花"
+  },
+  {
+    "id": "1514",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "隻眼の侍 エミリー"
+  },
+  {
+    "id": "1515",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "おっとり長刀 三浦あずさ"
+  },
+  {
+    "id": "1516",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "二天一流！ 伊吹翼"
+  },
+  {
+    "id": "1517",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "天下無敵の佇まい 伊吹翼"
+  },
+  {
+    "id": "1518",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "壬生の暴れ狼 高坂海美"
+  },
+  {
+    "id": "1519",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "夭折の天才剣士 高坂海美"
+  },
+  {
+    "id": "1520",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "証明でSing！ 矢吹可奈"
+  },
+  {
+    "id": "1521",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "放課後のSong！ 矢吹可奈"
+  },
+  {
+    "id": "1522",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "オリジナル声になって 矢吹可奈"
+  },
+  {
+    "id": "1523",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "クリスマスフェスタ 高山紗代子"
+  },
+  {
+    "id": "1524",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "クリスマスフェスタ 横山奈緒"
+  },
+  {
+    "id": "1525",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "クリスマスフェスタ 宮尾美也"
   }
 ];

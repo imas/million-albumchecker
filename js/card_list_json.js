@@ -10635,44 +10635,44 @@ var ___millimas_card_list =
   },
   {
     "id": "1520",
-    "idol_id": 36,
-    "idol_type": "Vo",
+    "idol_id": 29,
+    "idol_type": "Da",
     "rare": "HR",
-    "name": "証明でSing！ 矢吹可奈"
+    "name": "サンタにもご褒美を 高坂海美"
   },
   {
     "id": "1521",
-    "idol_id": 36,
-    "idol_type": "Vo",
+    "idol_id": 49,
+    "idol_type": "Vi",
     "rare": "HR",
-    "name": "放課後のSong！ 矢吹可奈"
+    "name": "ふわふわテディベア 周防桃子"
   },
   {
     "id": "1522",
-    "idol_id": 36,
-    "idol_type": "Vo",
-    "rare": "HR",
-    "name": "オリジナル声になって 矢吹可奈"
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ぱわほー！モニタージャック 徳川まつり"
   },
   {
     "id": "1523",
-    "idol_id": 27,
-    "idol_type": "Vo",
-    "rare": "HN",
-    "name": "クリスマスフェスタ 高山紗代子"
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "姫の宝物 徳川まつり"
   },
   {
     "id": "1524",
-    "idol_id": 37,
+    "idol_id": 44,
     "idol_type": "Da",
-    "rare": "HN",
-    "name": "クリスマスフェスタ 横山奈緒"
+    "rare": "SR",
+    "name": "キュートなトナカイさん 真壁瑞希"
   },
   {
     "id": "1525",
-    "idol_id": 42,
-    "idol_type": "Vi",
-    "rare": "HN",
-    "name": "クリスマスフェスタ 宮尾美也"
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "てづくりのスノードーム 真壁瑞希"
   }
 ];

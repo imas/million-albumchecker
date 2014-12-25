@@ -10674,5 +10674,180 @@ var ___millimas_card_list =
     "idol_type": "Da",
     "rare": "SR",
     "name": "てづくりのスノードーム 真壁瑞希"
+  },
+  {
+    "id": "1526",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "めんこいサンタさん 木下ひなた"
+  },
+  {
+    "id": "1527",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "あったかいプレゼント 木下ひなた"
+  },
+  {
+    "id": "1528",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "証明でSing！ 矢吹可奈"
+  },
+  {
+    "id": "1529",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "放課後のSong！ 矢吹可奈"
+  },
+  {
+    "id": "1530",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "オリジナル声になって 矢吹可奈"
+  },
+  {
+    "id": "1531",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ミリオンライブ！ 箱崎星梨花"
+  },
+  {
+    "id": "1532",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "クリスマスフェスタ 高山紗代子"
+  },
+  {
+    "id": "1533",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "クリスマスフェスタ 横山奈緒"
+  },
+  {
+    "id": "1534",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "クリスマスフェスタ 宮尾美也"
+  },
+  {
+    "id": "1535",
+    "idol_id": 8,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "くりすますぬうどる 四条貴音"
+  },
+  {
+    "id": "1536",
+    "idol_id": 12,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "やんちゃな逃亡者 双海真美"
+  },
+  {
+    "id": "1537",
+    "idol_id": 2,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "純白の贈り物 如月千早"
+  },
+  {
+    "id": "1538",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "セクシーサンタゲーム 舞浜歩"
+  },
+  {
+    "id": "1539",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ハッピークリスマスソング！ 舞浜歩"
+  },
+  {
+    "id": "1540",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "ホーリーナイトラウンド 箱崎星梨花"
+  },
+  {
+    "id": "1541",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "ホーリーナイトラウンド 野々原茜"
+  },
+  {
+    "id": "1542",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "ホーリーナイトラウンド 双海亜美"
+  },
+  {
+    "id": "1543",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "ヘルライダー 福田のり子"
+  },
+  {
+    "id": "1544",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "カリスマ天使長 天空橋朋花"
+  },
+  {
+    "id": "1545",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "悪魔王サタン 菊地真"
+  },
+  {
+    "id": "1546",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "熾天使ガブリエル 萩原雪歩"
+  },
+  {
+    "id": "1547",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "おしおき堕天使 萩原雪歩"
+  },
+  {
+    "id": "1548",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "騎士の休息？ 百瀬莉緒"
+  },
+  {
+    "id": "1549",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "清く、美しく 二階堂千鶴"
+  },
+  {
+    "id": "1550",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "姫騎士デビュー！ 望月杏奈"
   }
 ];

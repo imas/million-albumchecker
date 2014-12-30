@@ -41,12 +41,12 @@ def idol_id(card_name)
 
   idol_list.each do |idol|
     if idol_name == idol["name"]
-      idol_id = idol["id"]
+      idol_id = idol["id"].to_i
       break
     end
   end
 
-  idol_id.to_i
+  idol_id
 end
 
 # main

@@ -7,11 +7,14 @@ def card_list_of(base_uri, page_id, table_num_limit, pointer)
   card_list = []
   html = Nokogiri::HTML(open("%s/%d.html"%[base_uri, page_id]))
   wiki_body = html.css('#wikibody').first
-  table_list = wiki_body.css('table')
+  table_list = wiki_body.css('table').slice(0..(table_num_limit.to_i - 1))
 
+  card_list.concat(parse_wiki_page(table_list, pointer))
+end
+
+def parse_wiki_page(table_list, pointer)
+  card_list = []
   table_list.each_with_index do |table, i|
-    next unless i < table_num_limit
-
     tr_list = table.children.css('tr')
     tr_list.each_with_index do |tr_elm, j|
       # wikiでは、6行ごとに空の行が入っているため

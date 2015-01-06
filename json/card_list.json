@@ -10848,5 +10848,180 @@
     "idol_type": "Vo",
     "rare": "SR",
     "name": "姫騎士デビュー！ 望月杏奈"
+  },
+  {
+    "id": "1551",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "VIVID イマジネーション 望月杏奈"
+  },
+  {
+    "id": "1552",
+    "idol_id": 8,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "美食グランプリ主宰 四条貴音"
+  },
+  {
+    "id": "1553",
+    "idol_id": 8,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "いざ実食！ 四条貴音"
+  },
+  {
+    "id": "1554",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "ダイナミックに失敗！ 舞浜歩"
+  },
+  {
+    "id": "1555",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "カラフルハンバーガータワー 舞浜歩"
+  },
+  {
+    "id": "1556",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "魚かな？エビかな？ 宮尾美也"
+  },
+  {
+    "id": "1557",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "おいしいおうち 宮尾美也"
+  },
+  {
+    "id": "1558",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "調理終了3秒前！ 三浦あずさ"
+  },
+  {
+    "id": "1559",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "二人っきりのパニエルパ 三浦あずさ"
+  },
+  {
+    "id": "1560",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "小悪魔ジェットマシーン 星井美希"
+  },
+  {
+    "id": "1561",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "浪速のサンドグラス 横山奈緒"
+  },
+  {
+    "id": "1562",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "これぞ王道！ 松田亜利沙"
+  },
+  {
+    "id": "1563",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "おはよう！！朝ご飯 高槻やよい"
+  },
+  {
+    "id": "1564",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ホッピングスマイル 高槻やよい"
+  },
+  {
+    "id": "1565",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ロコ・セクシャライズ ロコ"
+  },
+  {
+    "id": "1566",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "IMPRESSION→ ロコ"
+  },
+  {
+    "id": "1567",
+    "idol_id": 9,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "GREEDY GIRL 秋月律子"
+  },
+  {
+    "id": "1568",
+    "idol_id": 9,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "強がりナミダ 秋月律子"
+  },
+  {
+    "id": "1569",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "ヤケのみ忘年会 馬場このみ"
+  },
+  {
+    "id": "1570",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "お見立てファッション 伊吹翼"
+  },
+  {
+    "id": "1571",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "穏やかな時 最上静香"
+  },
+  {
+    "id": "1572",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ぷるぷる鐘つき 七尾百合子"
+  },
+  {
+    "id": "1573",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "透明なプロローグ 七尾百合子"
+  },
+  {
+    "id": "1574",
+    "idol_id": 13,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "あったか家族 我那覇響"
+  },
+  {
+    "id": "1575",
+    "idol_id": 13,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "smiley days 我那覇響"
   }
 ]

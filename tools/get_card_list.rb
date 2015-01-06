@@ -28,6 +28,7 @@ def parse_table_list(table_list, pointer)
         "rare" => td_list[0].inner_text,
         "name" => td_list[2].inner_text,
       }
+      break if card['idol_id'] < 0
       card_list.push(card)
       pointer = pointer + 1
     end

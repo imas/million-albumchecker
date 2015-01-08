@@ -11,7 +11,7 @@ var page_limit = 0;
 
 function init() {
     card_list = ___millimas_card_list;
-    page_limit = card_list.length / CARD_COUNT_PER_PAGE;
+    page_limit = Math.ceil(card_list.length / CARD_COUNT_PER_PAGE);
     $('<div/>')
     .css({
         position: 'fixed',

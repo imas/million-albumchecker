@@ -11023,5 +11023,68 @@
     "idol_type": "Da",
     "rare": "SR",
     "name": "smiley days 我那覇響"
+  },
+  {
+    "id": "1576",
+    "idol_id": 51,
+    "idol_type": "Ex",
+    "rare": "R",
+    "name": "スキルアップ 晴れやかご挨拶 音無小鳥"
+  },
+  {
+    "id": "1577",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "みんなで霊山初詣！ 春日未来"
+  },
+  {
+    "id": "1578",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "巫女レッド参上！ 大神環"
+  },
+  {
+    "id": "1579",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "除夜の舞 ジュリア"
+  },
+  {
+    "id": "1580",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "Rock of dawn ジュリア"
+  },
+  {
+    "id": "1581",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ぺったん！お餅つき 佐竹美奈子"
+  },
+  {
+    "id": "1582",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "膨らむ気もち 佐竹美奈子"
+  },
+  {
+    "id": "1583",
+    "idol_id": 12,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "イタズラ烏天狗 双海真美"
+  },
+  {
+    "id": "1584",
+    "idol_id": 12,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "おねだりジャンケン 双海真美"
   }
 ]

@@ -11086,5 +11086,47 @@
     "idol_type": "Vi",
     "rare": "SR",
     "name": "おねだりジャンケン 双海真美"
+  },
+  {
+    "id": "1585",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "アイドル干支マラソン 水瀬伊織"
+  },
+  {
+    "id": "1586",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "アイドル干支マラソン 島原エレナ"
+  },
+  {
+    "id": "1587",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "アイドル干支マラソン 周防桃子"
+  },
+  {
+    "id": "1588",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "全力見切りスタート 高坂海美"
+  },
+  {
+    "id": "1589",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "パタパタフラップ 二階堂千鶴"
+  },
+  {
+    "id": "1590",
+    "idol_id": 13,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "風より疾く！ 我那覇響"
   }
 ]

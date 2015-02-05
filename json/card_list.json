@@ -11233,5 +11233,180 @@
     "idol_type": "Vo",
     "rare": "SR",
     "name": "スペースダイブ！ 望月杏奈"
+  },
+  {
+    "id": "1606",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "決戦前夜！ 菊地真"
+  },
+  {
+    "id": "1607",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "Birth of Color 菊地真"
+  },
+  {
+    "id": "1608",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "手と手繋いで 馬場このみ"
+  },
+  {
+    "id": "1609",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ドリームトラベラー 馬場このみ"
+  },
+  {
+    "id": "1610",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "小学生じゃないです！ 箱崎星梨花"
+  },
+  {
+    "id": "1611",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ごきげん校庭ライブ！ 箱崎星梨花"
+  },
+  {
+    "id": "1612",
+    "idol_id": 45,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "くんくん福袋 篠宮可憐"
+  },
+  {
+    "id": "1613",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "至福の賜り物 天空橋朋花"
+  },
+  {
+    "id": "1614",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "集中！カルタ飛ばし 横山奈緒"
+  },
+  {
+    "id": "1615",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "凧あげ迷人 北上麗花"
+  },
+  {
+    "id": "1616",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "FIND YOUR WIND! 北上麗花"
+  },
+  {
+    "id": "1617",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ハツラツ風の子 中谷育"
+  },
+  {
+    "id": "1618",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "おめかし姫様 中谷育"
+  },
+  {
+    "id": "1619",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "BIRTH 菊地真"
+  },
+  {
+    "id": "1620",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ミックスナッツ 馬場このみ"
+  },
+  {
+    "id": "1621",
+    "idol_id": 51,
+    "idol_type": "Ex",
+    "rare": "R",
+    "name": "レベルアップ 朗らかご挨拶 音無小鳥"
+  },
+  {
+    "id": "1622",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "アイドル美食グランプリ 三浦あずさ"
+  },
+  {
+    "id": "1623",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "アイドル美食グランプリ 舞浜歩"
+  },
+  {
+    "id": "1624",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "アイドル美食グランプリ 宮尾美也"
+  },
+  {
+    "id": "1625",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "アイドル節分パニック ジュリア"
+  },
+  {
+    "id": "1626",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "アイドル節分パニック 高槻やよい"
+  },
+  {
+    "id": "1627",
+    "idol_id": 9,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "アイドル節分パニック 秋月律子"
+  },
+  {
+    "id": "1628",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "はりきり鬼娘 天海春香"
+  },
+  {
+    "id": "1629",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "頼れる鬼姉御 百瀬莉緒"
+  },
+  {
+    "id": "1630",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "勇敢な桃姫さま 周防桃子"
   }
 ]

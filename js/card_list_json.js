@@ -11549,5 +11549,96 @@ var ___millimas_card_list =
     "idol_type": "Da",
     "rare": "SR",
     "name": "ティータイムガール 永吉昴"
+  },
+  {
+    "id": "1651",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "スイートキャッチボール 永吉昴"
+  },
+  {
+    "id": "1652",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "夜空に舞う 高坂海美"
+  },
+  {
+    "id": "1653",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "はにかみレディ 高坂海美"
+  },
+  {
+    "id": "1654",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "太鼓の達人 徳川まつり"
+  },
+  {
+    "id": "1655",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "必勝お弁当 箱崎星梨花"
+  },
+  {
+    "id": "1656",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "セレブな暗記法 二階堂千鶴"
+  },
+  {
+    "id": "1657",
+    "idol_id": 13,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "カンペキ皇帝 我那覇響"
+  },
+  {
+    "id": "1658",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "No.1うっかりアイドル 春日未来"
+  },
+  {
+    "id": "1659",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "素敵なキセキ 春日未来"
+  },
+  {
+    "id": "1660",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ロコズ単語帳 ロコ"
+  },
+  {
+    "id": "1661",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "アイドルクイズ王 ロコ"
+  },
+  {
+    "id": "1662",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "百獣の王アピール！ 松田亜利沙"
+  },
+  {
+    "id": "1663",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ワイルドマイク 野々原茜"
   }
 ];

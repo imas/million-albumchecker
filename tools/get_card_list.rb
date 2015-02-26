@@ -4,7 +4,7 @@ require 'nokogiri'
 require 'open-uri'
 
 def card_list_of(base_uri, page_id, table_num_limit, pointer)
-  html = Nokogiri::HTML(open("%s/%d.html"%[base_uri, page_id]))
+  html = Nokogiri::HTML(open("%s/%d.html"%[base_uri, page_id], 'r:utf-8'))
   wiki_body = html.css('#wikibody').first
   table_list = wiki_body.css('table').slice(0..(table_num_limit.to_i - 1))
 
@@ -71,7 +71,7 @@ File.write(File.expand_path('../json/card_list.json', File.dirname(__FILE__)), j
 File.write(File.expand_path('../js/card_list_json.js', File.dirname(__FILE__)), js_json_card_list)
 
 # readme update
-readme = File.read(File.expand_path('../README.md', File.dirname(__FILE__)))
+readme = File.read(File.expand_path('../README.md', File.dirname(__FILE__)), encoding: 'utf-8')
 readme.sub!(/『.+?』/, "『" + all_card_list.last['name'] + "』")
 File.write(File.expand_path('../README.md', File.dirname(__FILE__)), readme)
 

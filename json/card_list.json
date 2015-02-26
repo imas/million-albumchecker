@@ -11408,5 +11408,145 @@
     "idol_type": "Vi",
     "rare": "SR",
     "name": "勇敢な桃姫さま 周防桃子"
+  },
+  {
+    "id": "1631",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "鬼の女王様 天空橋朋花"
+  },
+  {
+    "id": "1632",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "皆なかよく恵方巻 天空橋朋花"
+  },
+  {
+    "id": "1633",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "ストリートダンサーズ 島原エレナ"
+  },
+  {
+    "id": "1634",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "エビバディダンス！ 島原エレナ"
+  },
+  {
+    "id": "1635",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "想いはCarnaval 島原エレナ"
+  },
+  {
+    "id": "1636",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "真心デコレーション 木下ひなた"
+  },
+  {
+    "id": "1637",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "スイートなお買い物 宮尾美也"
+  },
+  {
+    "id": "1638",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "もどかしい間合い 福田のり子"
+  },
+  {
+    "id": "1639",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ホワイトチョコステージ 福田のり子"
+  },
+  {
+    "id": "1640",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ショーゲキの贈り物 双海亜美"
+  },
+  {
+    "id": "1641",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "マーブルステージ 双海亜美"
+  },
+  {
+    "id": "1642",
+    "idol_id": 8,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "美味千彩 四条貴音"
+  },
+  {
+    "id": "1643",
+    "idol_id": 8,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ショコラステージ 四条貴音"
+  },
+  {
+    "id": "1644",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "ショコラハウス 望月杏奈"
+  },
+  {
+    "id": "1645",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "ショコラハウス 舞浜歩"
+  },
+  {
+    "id": "1646",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "ショコラハウス 所恵美"
+  },
+  {
+    "id": "1647",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "アツアツねこクッキー 菊地真"
+  },
+  {
+    "id": "1648",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "手作りショコラブック 七尾百合子"
+  },
+  {
+    "id": "1649",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "コットンキャンディバス 矢吹可奈"
+  },
+  {
+    "id": "1650",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ティータイムガール 永吉昴"
   }
 ]

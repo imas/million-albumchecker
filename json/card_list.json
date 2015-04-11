@@ -12073,5 +12073,103 @@
     "idol_type": "Vi",
     "rare": "SR",
     "name": "ARRIVE 篠宮可憐"
+  },
+  {
+    "id": "1726",
+    "idol_id": 51,
+    "idol_type": "Ex",
+    "rare": "SR",
+    "name": "アイドルでカメラマン？ 早坂そら"
+  },
+  {
+    "id": "1727",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "意外な配役 ジュリア"
+  },
+  {
+    "id": "1728",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "チャレンジ！ サメ釣り 真壁瑞希"
+  },
+  {
+    "id": "1729",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "笑顔のパレード 天海春香"
+  },
+  {
+    "id": "1730",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "かわいい悪戯 天海春香"
+  },
+  {
+    "id": "1731",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "パッション・ドラマー 横山奈緒"
+  },
+  {
+    "id": "1732",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ラブリークレープ 横山奈緒"
+  },
+  {
+    "id": "1733",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "準備完了！ 所恵美"
+  },
+  {
+    "id": "1734",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "美味しいアプローチ 所恵美"
+  },
+  {
+    "id": "1735",
+    "idol_id": 8,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "アイドルバスケリーグ 四条貴音"
+  },
+  {
+    "id": "1736",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "アイドルバスケリーグ 福田のり子"
+  },
+  {
+    "id": "1737",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "アイドルバスケリーグ ロコ"
+  },
+  {
+    "id": "1738",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "魅惑のトリッキーパス 伊吹翼"
+  },
+  {
+    "id": "1739",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "熱血リバウンダー 春日未来"
   }
 ]

@@ -12171,5 +12171,89 @@
     "idol_type": "Vo",
     "rare": "SR",
     "name": "熱血リバウンダー 春日未来"
+  },
+  {
+    "id": "1740",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "俊足ペネトレイター 大神環"
+  },
+  {
+    "id": "1741",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ホップ ステップ レインボウ♪ 大神環"
+  },
+  {
+    "id": "1742",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "のび～る！チーズピザ 宮尾美也"
+  },
+  {
+    "id": "1743",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "ファイトでゴー！ 北上麗花"
+  },
+  {
+    "id": "1744",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "お手軽？エクササイズ 矢吹可奈"
+  },
+  {
+    "id": "1745",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "VIPな微笑み 高槻やよい"
+  },
+  {
+    "id": "1746",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "エンジェルキューティクル 周防桃子"
+  },
+  {
+    "id": "1747",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "デコレーション・ドリ～ミンッ♪ 周防桃子"
+  },
+  {
+    "id": "1748",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "太陽の女神 水瀬伊織"
+  },
+  {
+    "id": "1749",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "強がりスライダー 水瀬伊織"
+  },
+  {
+    "id": "1750",
+    "idol_id": 9,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "ブラックヴェール 秋月律子"
+  },
+  {
+    "id": "1751",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ドールフェイス 箱崎星梨花"
   }
 ]

@@ -12256,5 +12256,61 @@ var ___millimas_card_list =
     "idol_type": "Vo",
     "rare": "SR",
     "name": "ドールフェイス 箱崎星梨花"
+  },
+  {
+    "id": "1752",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ダークビューティー 馬場このみ"
+  },
+  {
+    "id": "1753",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "dear... 馬場このみ"
+  },
+  {
+    "id": "1754",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "涼しげなシルエット 菊地真"
+  },
+  {
+    "id": "1755",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "恥じらい少女 北沢志保"
+  },
+  {
+    "id": "1756",
+    "idol_id": 17,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "頼れる生徒会長 田中琴葉"
+  },
+  {
+    "id": "1757",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ラフ・ショット 七尾百合子"
+  },
+  {
+    "id": "1758",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "菜の花姫 エミリー"
+  },
+  {
+    "id": "1759",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "微笑み日和 エミリー"
   }
 ];

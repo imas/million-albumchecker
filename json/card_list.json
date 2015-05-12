@@ -12311,5 +12311,103 @@
     "idol_type": "Da",
     "rare": "SR",
     "name": "微笑み日和 エミリー"
+  },
+  {
+    "id": "1760",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "決死の仁王立ち 萩原雪歩"
+  },
+  {
+    "id": "1761",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "本日のMVP 萩原雪歩"
+  },
+  {
+    "id": "1762",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "熱血ソードダンサー 舞浜歩"
+  },
+  {
+    "id": "1763",
+    "idol_id": 45,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "美しき刺客 篠宮可憐"
+  },
+  {
+    "id": "1764",
+    "idol_id": 2,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "コールドスナイパー 如月千早"
+  },
+  {
+    "id": "1765",
+    "idol_id": 2,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "蒼翼の射手 如月千早"
+  },
+  {
+    "id": "1766",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "アサルトガール 北上麗花"
+  },
+  {
+    "id": "1767",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "アーマーブレイカー 北上麗花"
+  },
+  {
+    "id": "1768",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "インセインクロー 双海亜美"
+  },
+  {
+    "id": "1769",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "キリングアーマー 双海亜美"
+  },
+  {
+    "id": "1770",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "にぎやか天気予報 望月杏奈"
+  },
+  {
+    "id": "1771",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "お天気お姉さん 望月杏奈"
+  },
+  {
+    "id": "1772",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "大胆！？露出アピール 百瀬莉緒"
+  },
+  {
+    "id": "1773",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "恥じらい乙女 百瀬莉緒"
   }
 ]

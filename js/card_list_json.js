@@ -12410,5 +12410,19 @@ var ___millimas_card_list =
     "idol_type": "Da",
     "rare": "SR",
     "name": "恥じらい乙女 百瀬莉緒"
+  },
+  {
+    "id": "1774",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "絶体絶命姫 徳川まつり"
+  },
+  {
+    "id": "1775",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "マシュマロプリンセス 徳川まつり"
   }
 ];

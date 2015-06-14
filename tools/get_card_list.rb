@@ -71,9 +71,11 @@ File.write(File.expand_path('../json/card_list.json', File.dirname(__FILE__)), j
 File.write(File.expand_path('../js/card_list_json.js', File.dirname(__FILE__)), js_json_card_list)
 
 # readme update
-readme = File.read(File.expand_path('../README.md', File.dirname(__FILE__)), encoding: 'utf-8')
-readme.sub!(/『.+?』/, "『" + all_card_list.last['name'] + "』")
-File.write(File.expand_path('../README.md', File.dirname(__FILE__)), readme)
+%w(README.md README.ja.md).each do |readme_file|
+  readme = File.read(File.expand_path("../#{readme_file}", File.dirname(__FILE__)), encoding: 'utf-8')
+  readme.sub!(/『.+?』/, "『" + all_card_list.last['name'] + "』")
+  File.write(File.expand_path("../#{readme_file}", File.dirname(__FILE__)), readme)
+end
 
 exit if `git diff`.empty?
 puts `git diff`

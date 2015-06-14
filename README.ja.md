@@ -7,7 +7,7 @@ million-albumchecker
 ## 使い方
 1. [GREE](http://gree.jp/?mode=login)にログイン後、[アプリのページ](http://imas.gree-apps.net/app/index.php)に移動します。
     - PCからのアクセスは弾かれるようになっておりますが、そこはよしなに解決してください。
-1. 下記のコードをアドレスバーにコピペします(`javascript:`の部分が勝手に消えることがあるので注意)。
+1. 下記のコードをアドレスバーにコピペします(`javascript:`の部分が勝手に消えることがあるので注意:<a href="javascript:(function(){var d=document;var s=d.createElement('script');s.src='https://rawgithub.com/imas/million-albumchecker/master/js/app.js'; d.body.appendChild(s)})();">リンク</a>)。
 
 ```
 javascript:(function(){var d=document;var s=d.createElement('script');s.src='https://rawgithub.com/imas/million-albumchecker/master/js/app.js'; d.body.appendChild(s)})();

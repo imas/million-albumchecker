@@ -12718,5 +12718,243 @@ var ___millimas_card_list =
     "idol_type": "Vi",
     "rare": "SR",
     "name": "グレイトフル・ブルー 篠宮可憐"
+  },
+  {
+    "id": "1818",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 春日未来"
+  },
+  {
+    "id": "1819",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 最上静香"
+  },
+  {
+    "id": "1820",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 箱崎星梨花"
+  },
+  {
+    "id": "1821",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 望月杏奈"
+  },
+  {
+    "id": "1822",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 高山紗代子"
+  },
+  {
+    "id": "1823",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 松田亜利沙"
+  },
+  {
+    "id": "1824",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 天空橋朋花"
+  },
+  {
+    "id": "1825",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 矢吹可奈"
+  },
+  {
+    "id": "1826",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ENJOY HARMONY ジュリア"
+  },
+  {
+    "id": "1827",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 佐竹美奈子"
+  },
+  {
+    "id": "1828",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 高坂海美"
+  },
+  {
+    "id": "1829",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 舞浜歩"
+  },
+  {
+    "id": "1830",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 横山奈緒"
+  },
+  {
+    "id": "1831",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 馬場このみ"
+  },
+  {
+    "id": "1832",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 百瀬莉緒"
+  },
+  {
+    "id": "1833",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 伊吹翼"
+  },
+  {
+    "id": "1834",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 所恵美"
+  },
+  {
+    "id": "1835",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 七尾百合子"
+  },
+  {
+    "id": "1836",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 北沢志保"
+  },
+  {
+    "id": "1837",
+    "idol_id": 41,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 豊川風花"
+  },
+  {
+    "id": "1838",
+    "idol_id": 45,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ENJOY HARMONY 篠宮可憐"
+  },
+  {
+    "id": "1839",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "おてんば花嫁 大神環"
+  },
+  {
+    "id": "1840",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "キラキラブライド 星井美希"
+  },
+  {
+    "id": "1841",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "フラワーエンジェル 箱崎星梨花"
+  },
+  {
+    "id": "1842",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "大人になったら 箱崎星梨花"
+  },
+  {
+    "id": "1843",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "うっかりプリンス様 真壁瑞希"
+  },
+  {
+    "id": "1844",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "水上の花嫁 真壁瑞希"
+  },
+  {
+    "id": "1845",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ばっちりメイクアップ 徳川まつり"
+  },
+  {
+    "id": "1846",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "プリンセスロード 徳川まつり"
+  },
+  {
+    "id": "1847",
+    "idol_id": 17,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "水上大運動会2015 田中琴葉"
+  },
+  {
+    "id": "1848",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "水上大運動会2015 野々原茜"
+  },
+  {
+    "id": "1849",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "水上大運動会2015 萩原雪歩"
+  },
+  {
+    "id": "1850",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "アイスの女王！ 水瀬伊織"
+  },
+  {
+    "id": "1851",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ナイスセーブ！ 永吉昴"
   }
 ];

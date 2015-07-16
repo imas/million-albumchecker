@@ -12956,5 +12956,257 @@ var ___millimas_card_list =
     "idol_type": "Da",
     "rare": "SR",
     "name": "ナイスセーブ！ 永吉昴"
+  },
+  {
+    "id": "1852",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "はりきりガール 北沢志保"
+  },
+  {
+    "id": "1853",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ご褒美ジャグジー 北沢志保"
+  },
+  {
+    "id": "1854",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "ユウウツヘアー 高坂海美"
+  },
+  {
+    "id": "1855",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "爽やかアイアイ傘 菊地真"
+  },
+  {
+    "id": "1856",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "革新！？レインスーツ ロコ"
+  },
+  {
+    "id": "1857",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "雨でもコンティニュー 望月杏奈"
+  },
+  {
+    "id": "1858",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "梅雨限定スタイル 松田亜利沙"
+  },
+  {
+    "id": "1859",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "チョー↑元気Show☆ 松田亜利沙"
+  },
+  {
+    "id": "1860",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "キュートなお姉さんアイドル 三浦あずさ"
+  },
+  {
+    "id": "1861",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ジャンピングスマイル 徳川まつり"
+  },
+  {
+    "id": "1862",
+    "idol_id": 13,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ラブ・トリコロール 我那覇響"
+  },
+  {
+    "id": "1863",
+    "idol_id": 13,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "Rebellion 我那覇響"
+  },
+  {
+    "id": "1864",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ドキッ！とハプニング 七尾百合子"
+  },
+  {
+    "id": "1865",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ファンタジックナイト 七尾百合子"
+  },
+  {
+    "id": "1866",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "The chariot 矢吹可奈"
+  },
+  {
+    "id": "1867",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "The sun 島原エレナ"
+  },
+  {
+    "id": "1868",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "The star 中谷育"
+  },
+  {
+    "id": "1869",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "Strength 佐竹美奈子"
+  },
+  {
+    "id": "1870",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "The fool 春日未来"
+  },
+  {
+    "id": "1871",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "The world 春日未来"
+  },
+  {
+    "id": "1872",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "セクシー油売り 馬場このみ"
+  },
+  {
+    "id": "1873",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "稀代の豪将 馬場このみ"
+  },
+  {
+    "id": "1874",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "ぷかぷかシャーク 箱崎星梨花"
+  },
+  {
+    "id": "1875",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "ひんやりオトメ味 菊地真"
+  },
+  {
+    "id": "1876",
+    "idol_id": 8,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "無邪気なサマー 四条貴音"
+  },
+  {
+    "id": "1877",
+    "idol_id": 8,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "秘密の約束 四条貴音"
+  },
+  {
+    "id": "1878",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "時にはエレガントに 百瀬莉緒"
+  },
+  {
+    "id": "1879",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ロマンチック・ディナー 百瀬莉緒"
+  },
+  {
+    "id": "1880",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "サマーインスピレーション ロコ"
+  },
+  {
+    "id": "1881",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "波間の瞳 ロコ"
+  },
+  {
+    "id": "1882",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "絡まりパニック！ 中谷育"
+  },
+  {
+    "id": "1883",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "思い出いっぱい！ 中谷育"
+  },
+  {
+    "id": "1884",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "リトル・ボス 水瀬伊織"
+  },
+  {
+    "id": "1885",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "優しい織姫さま 水瀬伊織"
+  },
+  {
+    "id": "1886",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "素直なナヤミ 北上麗花"
+  },
+  {
+    "id": "1887",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "とびきり素敵な夜 北上麗花"
   }
 ];

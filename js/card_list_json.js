@@ -13208,5 +13208,131 @@ var ___millimas_card_list =
     "idol_type": "Da",
     "rare": "SR",
     "name": "とびきり素敵な夜 北上麗花"
+  },
+  {
+    "id": "1888",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "夢のセッション！ ジュリア"
+  },
+  {
+    "id": "1889",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "天才パティシエ現る！？ 天海春香"
+  },
+  {
+    "id": "1890",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "ふれあい恐竜タイム 萩原雪歩"
+  },
+  {
+    "id": "1891",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "戦いの女神 福田のり子"
+  },
+  {
+    "id": "1892",
+    "idol_id": 9,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "「月は近かった」 秋月律子"
+  },
+  {
+    "id": "1893",
+    "idol_id": 9,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "タイムトラベラー 秋月律子"
+  },
+  {
+    "id": "1894",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "ブルーオーシャンライブ 天空橋朋花"
+  },
+  {
+    "id": "1895",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "ブルーオーシャンライブ 高槻やよい"
+  },
+  {
+    "id": "1896",
+    "idol_id": 45,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "ブルーオーシャンライブ 篠宮可憐"
+  },
+  {
+    "id": "1897",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "満点スマイル！ 佐竹美奈子"
+  },
+  {
+    "id": "1898",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "お手製ハロウィンドール 三浦あずさ"
+  },
+  {
+    "id": "1899",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "クイーン・オブ・ランタン 三浦あずさ"
+  },
+  {
+    "id": "1900",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "大物ゲット！ 周防桃子"
+  },
+  {
+    "id": "1901",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "大玉スイカ 高山紗代子"
+  },
+  {
+    "id": "1902",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "長閑なせせらぎ エミリー"
+  },
+  {
+    "id": "1903",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "夢ごこちハンモック 宮尾美也"
+  },
+  {
+    "id": "1904",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ワイルドオフロード 舞浜歩"
+  },
+  {
+    "id": "1905",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ほたるの海 舞浜歩"
   }
 ];

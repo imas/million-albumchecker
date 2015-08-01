@@ -13281,58 +13281,114 @@ var ___millimas_card_list =
   },
   {
     "id": "1898",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "トロピカルフィッシュ 二階堂千鶴"
+  },
+  {
+    "id": "1899",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "美ら海ガールズ 伊吹翼"
+  },
+  {
+    "id": "1900",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ジェリーフィッシュ・バラード 伊吹翼"
+  },
+  {
+    "id": "1901",
     "idol_id": 10,
     "idol_type": "Vo",
     "rare": "SR",
     "name": "お手製ハロウィンドール 三浦あずさ"
   },
   {
-    "id": "1899",
+    "id": "1902",
     "idol_id": 10,
     "idol_type": "Vo",
     "rare": "SR",
     "name": "クイーン・オブ・ランタン 三浦あずさ"
   },
   {
-    "id": "1900",
+    "id": "1903",
     "idol_id": 49,
     "idol_type": "Vi",
     "rare": "R",
     "name": "大物ゲット！ 周防桃子"
   },
   {
-    "id": "1901",
+    "id": "1904",
     "idol_id": 27,
     "idol_type": "Vo",
     "rare": "HR",
     "name": "大玉スイカ 高山紗代子"
   },
   {
-    "id": "1902",
+    "id": "1905",
     "idol_id": 32,
     "idol_type": "Da",
     "rare": "HR",
     "name": "長閑なせせらぎ エミリー"
   },
   {
-    "id": "1903",
+    "id": "1906",
     "idol_id": 42,
     "idol_type": "Vi",
     "rare": "SR",
     "name": "夢ごこちハンモック 宮尾美也"
   },
   {
-    "id": "1904",
+    "id": "1907",
     "idol_id": 34,
     "idol_type": "Da",
     "rare": "SR",
     "name": "ワイルドオフロード 舞浜歩"
   },
   {
-    "id": "1905",
+    "id": "1908",
     "idol_id": 34,
     "idol_type": "Da",
     "rare": "SR",
     "name": "ほたるの海 舞浜歩"
+  },
+  {
+    "id": "1909",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "アイドルビーチバレー 天海春香"
+  },
+  {
+    "id": "1910",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "アイドルビーチバレー 馬場このみ"
+  },
+  {
+    "id": "1911",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "アイドルビーチバレー 二階堂千鶴"
+  },
+  {
+    "id": "1912",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "ころりんトスアップ 木下ひなた"
+  },
+  {
+    "id": "1913",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "決死のレシーブ！ 七尾百合子"
   }
 ];

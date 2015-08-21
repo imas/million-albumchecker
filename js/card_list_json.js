@@ -13390,5 +13390,208 @@ var ___millimas_card_list =
     "idol_type": "Vi",
     "rare": "SR",
     "name": "決死のレシーブ！ 七尾百合子"
+  },
+  {
+    "id": "1914",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "パーフェクトスパイク！ 高坂海美"
+  },
+  {
+    "id": "1915",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "無邪気なアタック 高坂海美"
+  },
+  {
+    "id": "1916",
+    "idol_id": 2,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "うずしおクルーズ 如月千早"
+  },
+  {
+    "id": "1917",
+    "idol_id": 41,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "ゆったり舟流し 豊川風花"
+  },
+  {
+    "id": "1918",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ベースボールライブ 高山紗代子"
+  },
+  {
+    "id": "1919",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ふわふわ金魚 高山紗代子"
+  },
+  {
+    "id": "1920",
+    "idol_id": 13,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "届けサインボール！ 我那覇響"
+  },
+  {
+    "id": "1921",
+    "idol_id": 13,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "砂丘でおさんぽ♪ 我那覇響"
+  },
+  {
+    "id": "1922",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ドライブライブ 宮尾美也"
+  },
+  {
+    "id": "1923",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "時代の風雲児！ 宮尾美也"
+  },
+  {
+    "id": "1924",
+    "idol_id": 22,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "肝試しホテル 箱崎星梨花"
+  },
+  {
+    "id": "1925",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "肝試しホテル 島原エレナ"
+  },
+  {
+    "id": "1926",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "肝試しホテル 徳川まつり"
+  },
+  {
+    "id": "1927",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "クリムゾンシェフ 双海亜美"
+  },
+  {
+    "id": "1928",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "恐怖！あの世の湯 真壁瑞希"
+  },
+  {
+    "id": "1929",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "スイートルームの怨霊 ジュリア"
+  },
+  {
+    "id": "1930",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "在りし日の歌姫 ジュリア"
+  },
+  {
+    "id": "1931",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "プラズマショック！ 北沢志保"
+  },
+  {
+    "id": "1932",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "キケンな実験！？ 松田亜利沙"
+  },
+  {
+    "id": "1933",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "ロボティクスサッカー 大神環"
+  },
+  {
+    "id": "1934",
+    "idol_id": 17,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "真夏のあったかストール 田中琴葉"
+  },
+  {
+    "id": "1935",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ささやかな贈り物 所恵美"
+  },
+  {
+    "id": "1936",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "星空のアリエス 所恵美"
+  },
+  {
+    "id": "1937",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "なかよしワッペン 高槻やよい"
+  },
+  {
+    "id": "1938",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "スマイル体操 高槻やよい"
+  },
+  {
+    "id": "1939",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "恥ずかしチアガール 永吉昴"
+  },
+  {
+    "id": "1940",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "セクシーチアダンス 天空橋朋花"
+  },
+  {
+    "id": "1941",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "チアフルガール！ 星井美希"
+  },
+  {
+    "id": "1942",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "追憶のサンドグラス 星井美希"
   }
 ];

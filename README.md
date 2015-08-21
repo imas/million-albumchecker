@@ -12,7 +12,7 @@ Currently we support card until『追憶のサンドグラス 星井美希』.
 1. Use bookmarklet below (<a href="javascript:(function(){var d=document;var s=d.createElement('script');s.src='https://rawgithub.com/imas/million-albumchecker/master/js/app.js'; d.body.appendChild(s)})();">link</a>)
 
 ```
-javascript:(function(){var d=document;var s=d.createElement('script');s.src='https://rawgithub.com/imas/million-albumchecker/master/js/app.js'; d.body.appendChild(s)})();
+javascript:(function(){var d=document;var s=d.createElement('script');s.src='https://raw.githubusercontent.com/imas/million-albumchecker/master/js/app.js'; d.body.appendChild(s)})();
 ```
 
 ## Special thanks

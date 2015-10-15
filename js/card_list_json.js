@@ -13593,5 +13593,411 @@ var ___millimas_card_list =
     "idol_type": "Vi",
     "rare": "SR",
     "name": "追憶のサンドグラス 星井美希"
+  },
+  {
+    "id": "1943",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "まきびしパニック！ 横山奈緒"
+  },
+  {
+    "id": "1944",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "和菓子でござる！ 最上静香"
+  },
+  {
+    "id": "1945",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "分身の術！ 野々原茜"
+  },
+  {
+    "id": "1946",
+    "idol_id": 12,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "グレート畳返し！ 双海真美"
+  },
+  {
+    "id": "1947",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "小さなお屋形さま 望月杏奈"
+  },
+  {
+    "id": "1948",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "くのいち姫 望月杏奈"
+  },
+  {
+    "id": "1949",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ブルースカイライブ 矢吹可奈"
+  },
+  {
+    "id": "1950",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "くつろぎハミング 矢吹可奈"
+  },
+  {
+    "id": "1951",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "水晶のお告げ エミリー"
+  },
+  {
+    "id": "1952",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "祈りを託して 萩原雪歩"
+  },
+  {
+    "id": "1953",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "慈愛の賢者 三浦あずさ"
+  },
+  {
+    "id": "1954",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "哀しみの魔女 三浦あずさ"
+  },
+  {
+    "id": "1955",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "亡国のプリンセス 永吉昴"
+  },
+  {
+    "id": "1956",
+    "idol_id": 47,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "大いなる決断 永吉昴"
+  },
+  {
+    "id": "1957",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "初めてのともだち 周防桃子"
+  },
+  {
+    "id": "1958",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "決死の叫び 周防桃子"
+  },
+  {
+    "id": "1959",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "あと3センチ…！ 馬場このみ"
+  },
+  {
+    "id": "1960",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "頼れるブレイン 馬場このみ"
+  },
+  {
+    "id": "1961",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ケージトラップ 星井美希"
+  },
+  {
+    "id": "1962",
+    "idol_id": 3,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "クイックセーバー 星井美希"
+  },
+  {
+    "id": "1963",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "追い詰められた三人 最上静香"
+  },
+  {
+    "id": "1964",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ミッション成功！ 最上静香"
+  },
+  {
+    "id": "1965",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "意外な特技！？ 島原エレナ"
+  },
+  {
+    "id": "1966",
+    "idol_id": 50,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "くつろぎカンガルー ジュリア"
+  },
+  {
+    "id": "1967",
+    "idol_id": 16,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "搾りたてのおいしさ！ 伊吹翼"
+  },
+  {
+    "id": "1968",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ふわふわ抱きごこち 水瀬伊織"
+  },
+  {
+    "id": "1969",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "大きくなーれ！ 佐竹美奈子"
+  },
+  {
+    "id": "1970",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "スマイルいちばん 佐竹美奈子"
+  },
+  {
+    "id": "1971",
+    "idol_id": 41,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ラブリークリスマスソング♪ 豊川風花"
+  },
+  {
+    "id": "1972",
+    "idol_id": 41,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "可愛いプレゼント 豊川風花"
+  },
+  {
+    "id": "1973",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "温泉御殿ライブ 矢吹可奈"
+  },
+  {
+    "id": "1974",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "温泉御殿ライブ 北上麗花"
+  },
+  {
+    "id": "1975",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "温泉御殿ライブ 中谷育"
+  },
+  {
+    "id": "1976",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "温泉うぇるかむボード ロコ"
+  },
+  {
+    "id": "1977",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "にぎやか番台ライブ 天海春香"
+  },
+  {
+    "id": "1978",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "極楽温泉ライブ！ 菊地真"
+  },
+  {
+    "id": "1979",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "プライベート・ヘブン 菊地真"
+  },
+  {
+    "id": "1980",
+    "idol_id": 9,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "月夜の真剣勝負！ 秋月律子"
+  },
+  {
+    "id": "1981",
+    "idol_id": 43,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "全力まくら投げ！ 福田のり子"
+  },
+  {
+    "id": "1982",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "月より団子？ 春日未来"
+  },
+  {
+    "id": "1983",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "すやすや抱きまくら 舞浜歩"
+  },
+  {
+    "id": "1984",
+    "idol_id": 45,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "かしましガールズトーク 篠宮可憐"
+  },
+  {
+    "id": "1985",
+    "idol_id": 45,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "月明かりのティータイム 篠宮可憐"
+  },
+  {
+    "id": "1986",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "ウェルカムバルーン 北沢志保"
+  },
+  {
+    "id": "1987",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "ハッピースイートワゴン 望月杏奈"
+  },
+  {
+    "id": "1988",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "おそろしい魔女？ 木下ひなた"
+  },
+  {
+    "id": "1989",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "アップルメリーゴーラウンド 木下ひなた"
+  },
+  {
+    "id": "1990",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ゾンビにしちゃうぞ♪ 野々原茜"
+  },
+  {
+    "id": "1991",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ホラーナイトパレード 野々原茜"
+  },
+  {
+    "id": "1992",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "目覚めしノスフェラトゥ 七尾百合子"
+  },
+  {
+    "id": "1993",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "お茶目なヴァンパイアガール 七尾百合子"
+  },
+  {
+    "id": "1994",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "トワイライトパレス 最上静香"
+  },
+  {
+    "id": "1995",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "トワイライトパレス 大神環"
+  },
+  {
+    "id": "1996",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "トワイライトパレス 所恵美"
+  },
+  {
+    "id": "1997",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "おてんばレディ 双海亜美"
+  },
+  {
+    "id": "1998",
+    "idol_id": 17,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "淑女の憂鬱 田中琴葉"
+  },
+  {
+    "id": "1999",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "シャルウィダンス？ 高槻やよい"
+  },
+  {
+    "id": "2000",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "かぼちゃの晩餐会 高槻やよい"
   }
 ];

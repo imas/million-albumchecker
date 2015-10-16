@@ -2,7 +2,7 @@ million-albumchecker
 ======
 [アイドルマスター ミリオンライブ！](http://www.bandainamcogames.co.jp/cs/list/idolmaster/million_live/)用のアルバム達成状況を確認するためのbookmarkletです。
 
-現在、『かぼちゃの晩餐会 高槻やよい』まで対応しています。
+現在、『秘密の花園 三浦あずさ』まで対応しています。
 
 ## 使い方
 1. [GREE](http://gree.jp/?mode=login)にログイン後、[アプリのページ](http://imas.gree-apps.net/app/index.php)に移動します。

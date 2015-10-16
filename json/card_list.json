@@ -13998,5 +13998,89 @@
     "idol_type": "Da",
     "rare": "SR",
     "name": "かぼちゃの晩餐会 高槻やよい"
+  },
+  {
+    "id": "2001",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "流行スイーツ 水瀬伊織"
+  },
+  {
+    "id": "2002",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "びゅーりほー研究中！ 徳川まつり"
+  },
+  {
+    "id": "2003",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "集中！トランプタワー 高山紗代子"
+  },
+  {
+    "id": "2004",
+    "idol_id": 45,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "屋上リハーサル 篠宮可憐"
+  },
+  {
+    "id": "2005",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "キュートに変身♪ 島原エレナ"
+  },
+  {
+    "id": "2006",
+    "idol_id": 18,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ツインズハーモニー 島原エレナ"
+  },
+  {
+    "id": "2007",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "聖ミリオン女学園 木下ひなた"
+  },
+  {
+    "id": "2008",
+    "idol_id": 34,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "聖ミリオン女学園 舞浜歩"
+  },
+  {
+    "id": "2009",
+    "idol_id": 41,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "聖ミリオン女学園 豊川風花"
+  },
+  {
+    "id": "2010",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "運命の再会 中谷育"
+  },
+  {
+    "id": "2011",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ミス・ラベンダー 三浦あずさ"
+  },
+  {
+    "id": "2012",
+    "idol_id": 10,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "秘密の花園 三浦あずさ"
   }
 ]

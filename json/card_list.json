@@ -14064,23 +14064,51 @@
   },
   {
     "id": "2010",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "高飛車お嬢さま 高坂海美"
+  },
+  {
+    "id": "2011",
     "idol_id": 30,
     "idol_type": "Vi",
     "rare": "SR",
     "name": "運命の再会 中谷育"
   },
   {
-    "id": "2011",
+    "id": "2012",
     "idol_id": 10,
     "idol_type": "Vo",
     "rare": "SR",
     "name": "ミス・ラベンダー 三浦あずさ"
   },
   {
-    "id": "2012",
+    "id": "2013",
     "idol_id": 10,
     "idol_type": "Vo",
     "rare": "SR",
     "name": "秘密の花園 三浦あずさ"
+  },
+  {
+    "id": "2014",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "新年初ショット♪ 松田亜利沙"
+  },
+  {
+    "id": "2015",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "こころのアルバム 松田亜利沙"
+  },
+  {
+    "id": "2016",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "Dreaming! 春日未来"
   }
 ]

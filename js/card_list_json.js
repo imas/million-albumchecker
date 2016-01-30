@@ -14545,5 +14545,383 @@ var ___millimas_card_list =
     "idol_type": "Vi",
     "rare": "SR",
     "name": "空飛ぶサンタクロース 秋月律子"
+  },
+  {
+    "id": "2079",
+    "idol_id": 49,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "堂々入場！ 周防桃子"
+  },
+  {
+    "id": "2080",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "渾身のアピール！ 高山紗代子"
+  },
+  {
+    "id": "2081",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ラブリーポーズ！ 真壁瑞希"
+  },
+  {
+    "id": "2082",
+    "idol_id": 44,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "勝利の微笑 真壁瑞希"
+  },
+  {
+    "id": "2083",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "おひさまスマイル 萩原雪歩"
+  },
+  {
+    "id": "2084",
+    "idol_id": 17,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "キュートに姫ポーズ♪ 田中琴葉"
+  },
+  {
+    "id": "2085",
+    "idol_id": 39,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "エキサイティングダンス 馬場このみ"
+  },
+  {
+    "id": "2086",
+    "idol_id": 11,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "カラフルポッピング♪ 双海亜美"
+  },
+  {
+    "id": "2087",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "ラブリースウィートガールズ 春日未来"
+  },
+  {
+    "id": "2088",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "未来飛行 春日未来"
+  },
+  {
+    "id": "2089",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "遊びましょ… 佐竹美奈子"
+  },
+  {
+    "id": "2090",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ナミダのお願い 佐竹美奈子"
+  },
+  {
+    "id": "2091",
+    "idol_id": 12,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "雛ロックステージ 双海真美"
+  },
+  {
+    "id": "2092",
+    "idol_id": 12,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "みんなの待つステージへ！ 双海真美"
+  },
+  {
+    "id": "2093",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "R",
+    "name": "思い出スケッチ 北上麗花"
+  },
+  {
+    "id": "2094",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "ワクワクトラベル 徳川まつり"
+  },
+  {
+    "id": "2095",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "バーゲンの猛者 高坂海美"
+  },
+  {
+    "id": "2096",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "お母さんの味 木下ひなた"
+  },
+  {
+    "id": "2097",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ゆったりゆず湯 北沢志保"
+  },
+  {
+    "id": "2098",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "絵本 北沢志保"
+  },
+  {
+    "id": "2099",
+    "idol_id": 7,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "アイドルスペースウォーズ 水瀬伊織"
+  },
+  {
+    "id": "2100",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "アイドルスペースウォーズ 百瀬莉緒"
+  },
+  {
+    "id": "2101",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "アイドルスペースウォーズ ロコ"
+  },
+  {
+    "id": "2102",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "型破りなオーダー 宮尾美也"
+  },
+  {
+    "id": "2103",
+    "idol_id": 28,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "狂信の親衛隊長 松田亜利沙"
+  },
+  {
+    "id": "2104",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "真実を知った姫 エミリー"
+  },
+  {
+    "id": "2105",
+    "idol_id": 32,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "放たれた希望 エミリー"
+  },
+  {
+    "id": "2106",
+    "idol_id": 31,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "書き初めパフォーマンス 天空橋朋花"
+  },
+  {
+    "id": "2107",
+    "idol_id": 38,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "迎春の調べ 二階堂千鶴"
+  },
+  {
+    "id": "2108",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "てづくり羽子板♪ 天海春香"
+  },
+  {
+    "id": "2109",
+    "idol_id": 1,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "新春の願い 天海春香"
+  },
+  {
+    "id": "2110",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "お年玉だよ！ 野々原茜"
+  },
+  {
+    "id": "2111",
+    "idol_id": 23,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ハッピーニューイヤースマイル♪ 野々原茜"
+  },
+  {
+    "id": "2112",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "運命の人はすぐ傍に…？ 所恵美"
+  },
+  {
+    "id": "2113",
+    "idol_id": 20,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ほんのりトキメキ初ライブ 所恵美"
+  },
+  {
+    "id": "2114",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "本へのコダワリ 七尾百合子"
+  },
+  {
+    "id": "2115",
+    "idol_id": 26,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "デジタルとアナログの融合！ 七尾百合子"
+  },
+  {
+    "id": "2116",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "カメラって難しい… 木下ひなた"
+  },
+  {
+    "id": "2117",
+    "idol_id": 35,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "カンタン操作でベストショット！ 木下ひなた"
+  },
+  {
+    "id": "2118",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "コミュニケーション失敗？ 横山奈緒"
+  },
+  {
+    "id": "2119",
+    "idol_id": 37,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "通じ合う心 横山奈緒"
+  },
+  {
+    "id": "2120",
+    "idol_id": 15,
+    "idol_type": "Vo",
+    "rare": "R",
+    "name": "もひとつおかわり！ 最上静香"
+  },
+  {
+    "id": "2121",
+    "idol_id": 5,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "キラキラ海の幸 高槻やよい"
+  },
+  {
+    "id": "2122",
+    "idol_id": 25,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "アイムノットバッドガール…！ ロコ"
+  },
+  {
+    "id": "2123",
+    "idol_id": 29,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "銀世界でふたりきり 高坂海美"
+  },
+  {
+    "id": "2124",
+    "idol_id": 8,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "白鳥に囲まれて 四条貴音"
+  },
+  {
+    "id": "2125",
+    "idol_id": 8,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "かわいい雪うさぎ 四条貴音"
+  },
+  {
+    "id": "2126",
+    "idol_id": 14,
+    "idol_type": "Vo",
+    "rare": "HN",
+    "name": "スノーファンタジーライブ 春日未来"
+  },
+  {
+    "id": "2127",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "HN",
+    "name": "スノーファンタジーライブ 佐竹美奈子"
+  },
+  {
+    "id": "2128",
+    "idol_id": 42,
+    "idol_type": "Vi",
+    "rare": "HN",
+    "name": "スノーファンタジーライブ 宮尾美也"
+  },
+  {
+    "id": "2129",
+    "idol_id": 46,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "メルティング・キス 百瀬莉緒"
+  },
+  {
+    "id": "2130",
+    "idol_id": 27,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "氷のコンセントレイション 高山紗代子"
+  },
+  {
+    "id": "2131",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "純白のフェデネージュ 萩原雪歩"
+  },
+  {
+    "id": "2132",
+    "idol_id": 4,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "雪夜に咲く花 萩原雪歩"
   }
 ];

@@ -5,7 +5,7 @@ million-albumchecker
 
 A bookmarklet for card album achievement status of [IDOLM@STER MILLION LIVE!!](http://www.bandainamcogames.co.jp/cs/list/idolmaster/million_live/).
 
-Currently we support card until『雪夜に咲く花 萩原雪歩』.
+Currently we support card until『5本のバラの花言葉 徳川まつり』.
 
 ## How to use
 1. Log in [GREE](http://gree.jp/?mode=login), and go to [app page](http://imas.gree-apps.net/app/index.php).

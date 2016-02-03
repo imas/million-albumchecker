@@ -14922,5 +14922,124 @@
     "idol_type": "Vi",
     "rare": "SR",
     "name": "雪夜に咲く花 萩原雪歩"
+  },
+  {
+    "id": "2133",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "フルートマジック♪ 望月杏奈"
+  },
+  {
+    "id": "2134",
+    "idol_id": 24,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "素直な笑顔 望月杏奈"
+  },
+  {
+    "id": "2135",
+    "idol_id": 30,
+    "idol_type": "Vi",
+    "rare": "R",
+    "name": "おっきなパター 中谷育"
+  },
+  {
+    "id": "2136",
+    "idol_id": 36,
+    "idol_type": "Vo",
+    "rare": "HR",
+    "name": "全力スイング！ 矢吹可奈"
+  },
+  {
+    "id": "2137",
+    "idol_id": 6,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "狙うはホールインワン 菊地真"
+  },
+  {
+    "id": "2138",
+    "idol_id": 41,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "ナイスショット！ 豊川風花"
+  },
+  {
+    "id": "2139",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "豪快！リカバリーショット 大神環"
+  },
+  {
+    "id": "2140",
+    "idol_id": 40,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "野性のプロゴルファー 大神環"
+  },
+  {
+    "id": "2141",
+    "idol_id": 51,
+    "idol_type": "Ex",
+    "rare": "HR",
+    "name": "スキルアップ 初日の運試し！ 音無小鳥"
+  },
+  {
+    "id": "2142",
+    "idol_id": 19,
+    "idol_type": "Da",
+    "rare": "HR",
+    "name": "スイーツショッピング♪ 佐竹美奈子"
+  },
+  {
+    "id": "2143",
+    "idol_id": 33,
+    "idol_type": "Vi",
+    "rare": "HR",
+    "name": "甘いとまどい 北沢志保"
+  },
+  {
+    "id": "2144",
+    "idol_id": 2,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "不意打ちスナップ 如月千早"
+  },
+  {
+    "id": "2145",
+    "idol_id": 2,
+    "idol_type": "Vo",
+    "rare": "SR",
+    "name": "感謝の気持ち 如月千早"
+  },
+  {
+    "id": "2146",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "飛ばせ！飛ばせ！人力車 北上麗花"
+  },
+  {
+    "id": "2147",
+    "idol_id": 48,
+    "idol_type": "Da",
+    "rare": "SR",
+    "name": "ハートのお好み焼き 北上麗花"
+  },
+  {
+    "id": "2148",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "中華街で食べ歩き♪ 徳川まつり"
+  },
+  {
+    "id": "2149",
+    "idol_id": 21,
+    "idol_type": "Vi",
+    "rare": "SR",
+    "name": "5本のバラの花言葉 徳川まつり"
   }
 ]
